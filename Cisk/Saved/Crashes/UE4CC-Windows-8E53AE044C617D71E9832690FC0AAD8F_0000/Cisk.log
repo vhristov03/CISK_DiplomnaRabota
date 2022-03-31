@@ -1,0 +1,1189 @@
+﻿Log file open, 03/27/22 19:09:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Cisk
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.414096
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/MyShit/UnrealEngine/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+[2022.03.27-16.09.03:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.27-16.09.03:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+[2022.03.27-16.09.03:797][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+[2022.03.27-16.09.03:812][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:812][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.27-16.09.03:812][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.27-16.09.03:812][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:812][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.27-16.09.03:812][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.27-16.09.03:813][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.27-16.09.03:814][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.27-16.09.03:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.27-16.09.03:814][  0]LogHAL: Display: Platform has ~ 16 GB [17002713088 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.27-16.09.03:814][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.27-16.09.03:814][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.27-16.09.03:814][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.27-16.09.03:815][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.27-16.09.03:816][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+[2022.03.27-16.09.03:816][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Editor.ini]
+[2022.03.27-16.09.03:817][  0]LogInit: Computer: DESKTOP-MNVU0BQ
+[2022.03.27-16.09.03:817][  0]LogInit: User: MrSirene
+[2022.03.27-16.09.03:817][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.27-16.09.03:817][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.27-16.09.03:817][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.03.27-16.09.03:817][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.27-16.09.03:817][  0]LogMemory: Process Physical Memory: 144.41 MB used, 144.42 MB peak
+[2022.03.27-16.09.03:817][  0]LogMemory: Process Virtual Memory: 123.81 MB used, 123.81 MB peak
+[2022.03.27-16.09.03:817][  0]LogMemory: Physical Memory: 12966.20 MB used,  3248.85 MB free, 16215.05 MB total
+[2022.03.27-16.09.03:817][  0]LogMemory: Virtual Memory: 134211624.00 MB used,  6102.80 MB free, 134217728.00 MB total
+[2022.03.27-16.09.03:825][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.27-16.09.03:856][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.27-16.09.03:857][  0]LogInit: Using OS detected language (en-US).
+[2022.03.27-16.09.03:857][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.27-16.09.03:862][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.27-16.09.04:241][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.27-16.09.04:254][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.27-16.09.04:276][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.27-16.09.04:276][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.27-16.09.04:486][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.27-16.09.04:508][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.27-16.09.04:508][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.27-16.09.04:508][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.27-16.09.04:508][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.27-16.09.04:635][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2022.03.27-16.09.04:635][  0]LogD3D11RHI:       5991/0/8107 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.27-16.09.04:678][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.03.27-16.09.04:678][  0]LogD3D11RHI:       128/0/8107 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:       0/0/8107 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:     DeviceId    : 2191
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:     SubSysId    : 143e1025
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:     SharedSystemMemory : 8501356544 bytes
+[2022.03.27-16.09.04:682][  0]LogD3D11RHI:     AdapterLuid : 0 70322
+[2022.03.27-16.09.04:693][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.27-16.09.04:693][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.27-16.09.04:693][  0]LogWindows: EnumDisplayDevices:
+[2022.03.27-16.09.04:693][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.03.27-16.09.04:694][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.03.27-16.09.04:694][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.03.27-16.09.04:694][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.03.27-16.09.04:694][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2022.03.27-16.09.04:695][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     DeviceId    : 2191
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     SubSysId    : 143e1025
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     SharedSystemMemory : 8501356544 bytes
+[2022.03.27-16.09.04:695][  0]LogD3D11RHI:     AdapterLuid : 0 70322
+[2022.03.27-16.09.04:794][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.27-16.09.04:794][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.27-16.09.04:794][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.27-16.09.04:815][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.27-16.09.04:878][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.27-16.09.05:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.27-16.09.05:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.27-16.09.05:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.27-16.09.05:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.27-16.09.05:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.27-16.09.05:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.27-16.09.05:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.27-16.09.05:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.27-16.09.05:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.27-16.09.05:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.27-16.09.05:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.27-16.09.05:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.27-16.09.05:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.27-16.09.05:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.27-16.09.05:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.27-16.09.05:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.27-16.09.05:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.27-16.09.05:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.27-16.09.05:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.27-16.09.05:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.27-16.09.05:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.27-16.09.05:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.27-16.09.05:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.27-16.09.05:623][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.27-16.09.05:635][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.27-16.09.05:679][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.27-16.09.05:729][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.27-16.09.05:730][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Intermediate/Shaders/WorkingDirectory/932/).
+[2022.03.27-16.09.05:730][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MrSirene/AppData/Local/Temp/UnrealShaderWorkingDir/9A6A5D884BD2C418C9A2278EC7FE6DC7/'.
+[2022.03.27-16.09.05:731][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.27-16.09.05:731][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.27-16.09.05:731][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.27-16.09.07:122][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.27-16.09.07:203][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/MrSirene/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.27-16.09.07:203][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MrSirene/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.27-16.09.07:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.27-16.09.07:203][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.27-16.09.07:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.27-16.09.07:204][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.27-16.09.07:230][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.27-16.09.07:231][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.27-16.09.07:231][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.27-16.09.07:243][  0]LogDerivedDataCache: Speed tests for C:/Users/MrSirene/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.27-16.09.07:243][  0]LogDerivedDataCache: Display: Performance to C:/Users/MrSirene/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=574.55MBs, RandomWriteSpeed=99.73MBs. Assigned SpeedClass 'Local'
+[2022.03.27-16.09.07:244][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MrSirene/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.27-16.09.07:244][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.27-16.09.07:244][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.27-16.09.07:321][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.27-16.09.07:322][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.27-16.09.07:353][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2022.03.27-16.09.07:698][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.27-16.09.07:698][  0]LogInit: Active device profile: [000002AA850F4700][000002AAFB25F1C0 49] Windows
+[2022.03.27-16.09.07:698][  0]LogInit: Profiles: [000002AA850F4700][000002AAFB25F1C0 49] Windows, [000002AA850AF700][000002AAFA891340 49] WindowsNoEditor, [000002AA850F7300][000002AAFA8954C0 49] WindowsServer, [000002AA850ACF00][000002AAFA899640 49] WindowsClient, [000002AA850F7500][000002AAFA51F7C0 49] IOS, [000002AA8509FF00][000002AAFA523940 49] iPadAir, [000002AA850AFB00][000002AAFA527AC0 49] iPadAir2, [000002AA85060500][000002AAFA52E200 49] IPadPro, [000002AA85060600][000002AAFA52A240 49] iPadAir3, [000002AA8509C100][000002AAFA5323C0 49] iPadAir4, [000002AA85062C00][000002AAFA536540 49] iPadMini2, [000002AA8509E500][000002AAFA53A6C0 49] iPadMini3, [000002AA85063400][000002AAFA88C800 49] iPadMini4, [000002AA8509CF00][000002AAFA53E940 49] iPadMini5, [000002AA8504FE00][000002AAFA546B80 49] iPhone6, [000002AA8504FF00][000002AAFA542BC0 49] iPodTouch6, [000002AA850F7900][000002AAFA7E6E80 49] iPhone7, [000002AA850F6100][000002AAFA54EEC0 49] iPodTouch7, [000002AA8504C400][000002AAFA7F3040 49] iPhone5S, [000002AA85063D00][000002AAFA7F71C0 49] iPhone6Plus, [000002AA850F7400][000002AAFA7FB340 49] iPhone6S, [000002AA85062000][000002AAFA8034C0 49] iPhone6SPlus, [000002AA850F4900][000002AAFA80B640 49] iPhone7Plus, [000002AA85060E00][000002AAFA81F7C0 49] iPhoneSE, [000002AA850F4200][000002AA83EC7940 49] iPhone8, [000002AA85062400][000002AA83ECBAC0 49] iPhone8Plus, [000002AA850F5E00][000002AA82BE40C0 49] iPhoneX, [000002AA85063E00][000002AA82BE8240 49] iPhoneXS, [000002AA850F5600][000002AA82BEC3C0 49] iPhoneXSMax, [000002AA85062500][000002AA82BF0540 49] iPhoneXR, [000002AA850F6A00][000002AA82BF46C0 49] iPhone11, [000002AA85063A00][000002AA82BF8840 49] iPhone11Pro, [000002AA850F4F00][000002AAFA54A980 49] iPhone11ProMax, [000002AA85062300][000002AA82BFCAC0 49] iPhoneSE2, [000002AA850F6700][000002AAF61B6C00 49] iPhone12Mini, [000002AA85060700][000002AAF61BAD40 49] iPhone12, [000002AA850F7100][000002AA83F36EC0 49] iPhone12Pro, [000002AA85063500][000002AA83F65040 49] iPhone12ProMax, [000002AA850F4800][000002AA83F691C0 49] iPadPro105, [000002AA85061C00][000002AA83F71340 49] iPadPro129, [000002AA850F4300][000002AA83F754C0 49] iPadPro97, [000002AA85061D00][000002AA83F87640 49] iPadPro2_129, [000002AA850F4C00][000002AA840217C0 49] iPad5, [000002AA85063000][000002AA843F1940 49] iPad6, [000002AA850F6C00][000002AA843FFAC0 49] iPad7, [000002AA85062E00][000002AA8441A0C0 49] iPad8, [000002AA850F5800][000002AA84024240 49] iPadPro11, [000002AA85061B00][000002AA840283C0 49] iPadPro2_11, [000002AA850F5500][000002AA8402C540 49] iPadPro3_129, [000002AA85062700][000002AA840306C0 49] iPadPro4_129, [000002AA850F4100][000002AA82B94840 49] AppleTV, [000002AA85062B00][000002AA82B989C0 49] AppleTV4K, [000002AA850F5B00][000002AA82BCAB40 49] TVOS, [000002AA85060900][000002AA82B54C80 49] Mac, [000002AA850F5700][000002AA840CCDC0 49] MacClient, [000002AA85062F00][000002AA840D0F00 49] MacNoEditor, [000002AA850F4D00][000002AA840D9080 49] MacServer, [000002AA85060300][000002AA856AD200 49] Linux, [000002AA850F6E00][000002AA856B1380 49] LinuxAArch64, [000002AA85061500][000002AA856F3500 49] LinuxNoEditor, [000002AA850F6400][000002AA856F7680 49] LinuxAArch64NoEditor, [000002AA85060200][000002AA85727800 49] LinuxClient, [000002AA850F6D00][000002AAF6129980 49] LinuxAArch64Client, [000002AA85060C00][000002AAF612DB00 49] LinuxServer, [000002AA850F4400][000002AAF6130100 49] LinuxAArch64Server, [000002AA85061000][000002AAF6134280 49] Android, [000002AA8509F900][000002AAF6138400 49] Android_Low, [000002AA8504DB00][000002AAF613C580 49] Android_Mid, [000002AA8509F000][000002AA8572A700 49] Android_High, [000002AA8504E300][000002AA856B4880 49] Android_Default, [000002AA8509E000][000002AA82A56A00 49] Android_Adreno4xx, [000002AA8504C100][000002AA82A5AB80 49] Android_Adreno5xx_Low, [000002AA8509CB00][000002AA82A5ED00 49] Android_Adreno5xx, [000002AA8504D800][000002AA840D4E40 49] Android_Adreno6xx, [000002AA8509D100][000002AA83F3AF80 49] Android_Adreno6xx_Vulkan, [000002AA8504C800][000002AAF61C30C0 49] Android_Mali_T6xx, [000002AA8509F600][000002AA82B4D240 49] Android_Mali_T7xx, [000002AA8504CD00][000002AAF61BF3C0 49] Android_Mali_T8xx, [000002AA8509FC00][000002AAFA7FF540 49] Android_Mali_G71, [000002AA8504D500][000002AAFA8076C0 49] Android_Mali_G72, [000002AA8509FE00][000002AA82A63840 49] Android_Mali_G72_Vulkan, [000002AA8504FD00][000002AA82A679C0 49] Android_Mali_G76, [000002AA8509FA00][000002AA82A6BB40 49] Android_Mali_G76_Vulkan, [000002AA8504F600][000002AA82A6E140 49] Android_Mali_G77, [000002AA8509E200][000002AA82A722C0 49] Android_Mali_G77_Vulkan, [000002AA8504D200][000002AA82A76440 49] Android_Mali_G78, [000002AA8509CA00][000002AA82A7A5C0 49] Android_Mali_G78_Vulkan, [000002AA8504F000][000002AAF6162740 49] Android_Mali_G710, [000002AA8509D400][000002AAF61668C0 49] Android_Mali_G710_Vulkan, [000002AA8504C700][000002AAF616AA40 49] Android_Vulkan_SM5, [000002AA8509D800][000002AAF616EBC0 49] Android_PowerVR_G6xxx, [000002AA8504CE00][000002AAF6172D40 49] Android_PowerVR_GT7xxx, [000002AA8509C200][000002AAF6176EC0 49] Android_PowerVR_GE8xxx, [000002AA8504C600][000002AA82B51000 49] Android_PowerVR_GM9xxx, [000002AA8509E600][000002AAF617B140 49] Android_PowerVR_GM9xxx_Vulkan, [000002AA85060F00][000002AAF617F280 49] Android_TegraK1, [000002AA8509EA00][000002AAF61833C0 49] Android_Unknown_Vulkan, [000002AA85060D00][000002AAF618B540 49] Lumin, [000002AA8509D200][000002AAF618F6C0 49] Lumin_Desktop, [000002AA85060B00][000002AAF6193840 49] HoloLens, 
+[2022.03.27-16.09.07:891][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.27-16.09.07:891][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.27-16.09.07:891][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.27-16.09.07:891][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.27-16.09.07:891][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.27-16.09.07:910][  0]LogNetVersion: Cisk 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 850332282)
+[2022.03.27-16.09.08:452][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.27-16.09.08:528][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.27-16.09.08:535][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.27-16.09.08:535][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2022.03.27-16.09.08:535][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.27-16.09.08:876][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 692306E14310B517EE2E0E87DB3C643C | Instance: 574581ED40D4359768576B85BF59120A (DESKTOP-MNVU0BQ-932).
+[2022.03.27-16.09.08:976][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.27-16.09.08:976][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.27-16.09.09:037][  0]LogPython: Using Python 3.7.7
+[2022.03.27-16.09.09:815][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.27-16.09.09:821][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.27-16.09.10:097][  0]SourceControl: Source control is disabled
+[2022.03.27-16.09.10:097][  0]SourceControl: Source control is disabled
+[2022.03.27-16.09.10:100][  0]SourceControl: Source control is disabled
+[2022.03.27-16.09.10:109][  0]SourceControl: Source control is disabled
+[2022.03.27-16.09.10:117][  0]LogUProjectInfo: Found projects:
+[2022.03.27-16.09.10:172][  0]SourceControl: Source control is disabled
+[2022.03.27-16.09.10:335][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.27-16.09.10:382][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.27-16.09.10:411][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.27-16.09.10:411][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.27-16.09.10:588][  0]LogCollectionManager: Loaded 0 collections in 0.001935 seconds
+[2022.03.27-16.09.10:621][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Collections/' took 0.00s
+[2022.03.27-16.09.10:621][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Content/Developers/MrSirene/Collections/' took 0.00s
+[2022.03.27-16.09.10:621][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Content/Collections/' took 0.00s
+[2022.03.27-16.09.10:621][  0]LogOcInput: OculusInput pre-init called
+[2022.03.27-16.09.10:963][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.27-16.09.10:963][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.27-16.09.10:963][  0]LogEngine: Initializing Engine...
+[2022.03.27-16.09.10:966][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.27-16.09.10:966][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.27-16.09.10:966][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.27-16.09.10:967][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.27-16.09.11:212][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.27-16.09.11:221][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.27-16.09.11:222][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.27-16.09.11:225][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.27-16.09.11:226][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.27-16.09.11:227][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.27-16.09.11:227][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.27-16.09.11:227][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-16.09.11:227][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-16.09.11:227][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-16.09.11:227][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-16.09.11:227][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.27-16.09.11:227][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.27-16.09.11:227][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.27-16.09.11:227][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-16.09.11:227][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.27-16.09.11:227][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.27-16.09.11:227][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-16.09.11:227][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-16.09.11:260][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-16.09.11:260][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-16.09.11:281][  0]LogAudioMixer: Display: Using Audio Device Headphones (JBL TUNE510BT Stereo)
+[2022.03.27-16.09.11:281][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-16.09.11:284][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-16.09.11:284][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-16.09.11:285][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-16.09.11:285][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-16.09.11:285][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-16.09.11:287][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-16.09.11:287][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-16.09.11:287][  0]LogInit: FAudioDevice initialized.
+[2022.03.27-16.09.11:287][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.27-16.09.11:287][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.27-16.09.11:358][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/MrSirene/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.27-16.09.11:359][  0]LogInit: Texture streaming: Enabled
+[2022.03.27-16.09.11:373][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2022.03.27-16.09.11:377][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.27-16.09.11:377][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.27-16.09.11:381][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.27-16.09.11:415][  0]LogInit: Transaction tracking system initialized
+[2022.03.27-16.09.11:441][  0]BlueprintLog: New page: Editor Load
+[2022.03.27-16.09.11:509][  0]LocalizationService: Localization service is disabled
+[2022.03.27-16.09.11:536][  0]TimingProfiler: Initialize
+[2022.03.27-16.09.11:536][  0]TimingProfiler: OnSessionChanged
+[2022.03.27-16.09.11:536][  0]LoadingProfiler: Initialize
+[2022.03.27-16.09.11:536][  0]LoadingProfiler: OnSessionChanged
+[2022.03.27-16.09.11:536][  0]NetworkingProfiler: Initialize
+[2022.03.27-16.09.11:536][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.27-16.09.11:536][  0]MemoryProfiler: Initialize
+[2022.03.27-16.09.11:536][  0]MemoryProfiler: OnSessionChanged
+[2022.03.27-16.09.11:738][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.27-16.09.11:738][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.27-16.09.11:973][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Content/' took 0.01s
+[2022.03.27-16.09.12:229][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.27-16.09.12:229][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.27-16.09.12:236][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.27-16.09.12:240][  0]SourceControl: Source control is disabled
+[2022.03.27-16.09.12:240][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.271
+[2022.03.27-16.09.12:240][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.27-16.09.12:240][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.03.27-16.09.12:240][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.27-16.09.12:241][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2022.03.27-16.09.12:241][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.001
+[2022.03.27-16.09.12:245][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.276
+[2022.03.27-16.09.12:374][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-16.09.12:384][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-16.09.12:395][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-16.09.12:404][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-16.09.12:423][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0129 seconds. Added 3833 classes and 930 folders.
+[2022.03.27-16.09.12:426][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.27-16.09.12:428][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.27-16.09.12:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.27-16.09.12:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.27-16.09.12:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.03.27-16.09.12:429][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.27-16.09.12:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.27-16.09.12:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.27-16.09.12:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.03.27-16.09.12:430][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.27-16.09.12:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.27-16.09.12:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.27-16.09.12:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.03.27-16.09.12:431][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.27-16.09.12:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.27-16.09.12:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.27-16.09.12:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.03.27-16.09.12:432][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.27-16.09.12:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.27-16.09.12:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.27-16.09.12:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.03.27-16.09.12:432][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.27-16.09.12:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.27-16.09.12:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.27-16.09.12:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.03.27-16.09.12:433][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.27-16.09.12:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.27-16.09.12:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.27-16.09.12:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.03.27-16.09.12:434][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.27-16.09.12:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.27-16.09.12:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.27-16.09.12:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.03.27-16.09.12:435][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.27-16.09.12:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.27-16.09.12:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.27-16.09.12:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.03.27-16.09.12:436][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.27-16.09.12:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.27-16.09.12:436][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:436][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.27-16.09.12:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.03.27-16.09.12:437][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.27-16.09.12:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.27-16.09.12:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.27-16.09.12:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.03.27-16.09.12:438][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.27-16.09.12:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.27-16.09.12:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.27-16.09.12:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.03.27-16.09.12:438][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.27-16.09.12:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.27-16.09.12:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.27-16.09.12:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.03.27-16.09.12:439][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.27-16.09.12:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.27-16.09.12:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.27-16.09.12:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.03.27-16.09.12:440][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.27-16.09.12:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.27-16.09.12:440][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:440][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.27-16.09.12:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.03.27-16.09.12:441][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.27-16.09.12:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.27-16.09.12:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.27-16.09.12:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.03.27-16.09.12:442][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.27-16.09.12:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.27-16.09.12:442][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:442][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.27-16.09.12:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.03.27-16.09.12:442][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.27-16.09.12:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.27-16.09.12:442][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:442][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.27-16.09.12:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.03.27-16.09.12:443][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.27-16.09.12:443][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.27-16.09.12:443][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:443][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.27-16.09.12:443][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.03.27-16.09.12:444][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.27-16.09.12:444][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:444][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.27-16.09.12:444][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:444][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.27-16.09.12:444][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.03.27-16.09.12:444][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.27-16.09.12:444][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:444][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.27-16.09.12:445][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:445][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.27-16.09.12:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.03.27-16.09.12:445][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.27-16.09.12:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.27-16.09.12:445][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:445][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.27-16.09.12:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.03.27-16.09.12:446][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.27-16.09.12:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.27-16.09.12:446][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:446][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.27-16.09.12:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.03.27-16.09.12:447][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.27-16.09.12:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.27-16.09.12:447][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:447][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.27-16.09.12:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.03.27-16.09.12:447][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.27-16.09.12:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.27-16.09.12:447][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:447][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.27-16.09.12:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.03.27-16.09.12:448][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.27-16.09.12:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.27-16.09.12:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.27-16.09.12:448][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.27-16.09.12:448][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/MyShit/UnrealEngine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.27-16.09.12:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.03.27-16.09.12:507][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.03.27-16.09.12:508][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.03.27-16.09.12:621][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.27-16.09.12:622][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.27-16.09.12:624][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.27-16.09.12:755][  0]LogRenderer: Reallocating scene render targets to support 1280x672 Format 10 NumSamples 1 (Frame:1).
+[2022.03.27-16.09.12:802][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.27-16.09.12:877][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.03.27-16.09.12:878][  0]LogLoad: (Engine Initialization) Total time: 10.91 seconds
+[2022.03.27-16.09.12:878][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.27-16.09.12:950][  0]LogAssetRegistry: Asset discovery search completed in 5.5983 seconds
+[2022.03.27-16.09.12:958][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.03.27-16.09.12:960][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.27-16.09.15:009][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.03.27-16.09.15:020][ 79]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.27-16.09.15:116][ 79]LogLinker: Error: HOTRELOADED_BaseUnitClass_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/Tile.uasset)
+[2022.03.27-16.09.15:121][ 79]LogLinker: Error: HOTRELOADED_BaseUnitClass_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/Tile.uasset)
+[2022.03.27-16.09.15:121][ 79]LogLinker: Error: HOTRELOADED_BaseUnitClass_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/Tile.uasset)
+[2022.03.27-16.09.15:150][ 79]LogLinker: Error: HOTRELOADED_BaseUnitClass_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/Tile.uasset)
+[2022.03.27-16.09.15:397][ 79]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameMap/GameMap.GameMap
+[2022.03.27-16.09.15:397][ 79]Cmd: MAP LOAD FILE="../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.27-16.09.15:397][ 79]LightingResults: New page: Lighting Build
+[2022.03.27-16.09.15:398][ 79]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 6 classes and 0 folders.
+[2022.03.27-16.09.15:398][ 79]LoadErrors: New page: Loading map: GameMap.umap
+[2022.03.27-16.09.15:399][ 79]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-16.09.15:399][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-16.09.15:399][ 79]MapCheck: New page: Map Check
+[2022.03.27-16.09.15:399][ 79]LightingResults: New page: Lighting Build
+[2022.03.27-16.09.15:406][ 79]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.27-16.09.15:412][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.03.27-16.09.15:413][ 79]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameMap'.
+[2022.03.27-16.09.15:558][ 79]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.27-16.09.15:558][ 79]LogAIModule: Creating AISystem for world GameMap
+[2022.03.27-16.09.15:569][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.03.27-16.09.15:582][ 79]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.27-16.09.15:582][ 79]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2022.03.27-16.09.15:582][ 79]LogFileHelpers: Loading map 'GameMap' took 0.186
+[2022.03.27-16.09.16:028][ 94]Candidate modules for hot reload:
+[2022.03.27-16.09.16:028][ 94]  Cisk
+[2022.03.27-16.09.16:028][ 94]Launching UnrealBuildTool... [C:/MyShit/UnrealEngine/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Cisk,7352 CiskEditor Win64 Development -Project="C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Cisk.uproject" "C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Cisk.uproject"  -IgnoreJunk]
+[2022.03.27-16.09.16:031][ 94]Warning: Starting HotReload took  0.0s.
+[2022.03.27-16.09.35:936][598]CompilerResultsLog: New page: Compilation - Mar 27, 2022, 10:09:35 PM
+[2022.03.27-16.09.35:936][598]CompilerResultsLog: Parsing headers for CiskEditor
+[2022.03.27-16.09.35:936][598]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Cisk.uproject" "C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\CiskEditor\Development\CiskEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\MrSirene\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.27-16.09.35:936][598]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.03.27-16.09.35:937][598]CompilerResultsLog: Reflection code generated for CiskEditor in 7.0475699 seconds
+[2022.03.27-16.09.35:937][598]CompilerResultsLog: Building CiskEditor...
+[2022.03.27-16.09.35:937][598]CompilerResultsLog: Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.27-16.09.35:937][598]CompilerResultsLog: Building 9 actions with 12 processes...
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:   [1/9] BaseUnitClass.cpp
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:   [2/9] InfantryUnit.cpp
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:   [3/9] BuilderUnit.cpp
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:   [4/9] InfantryUnit.gen.cpp
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:   [5/9] BaseUnitClass.gen.cpp
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:   [6/9] BuilderUnit.gen.cpp
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:   [7/9] UE4Editor-Cisk-7352.lib
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:      Creating library C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Development\Cisk\UE4Editor-Cisk-7352.lib and object C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Development\Cisk\UE4Editor-Cisk-7352.exp
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:   [8/9] UE4Editor-Cisk-7352.dll
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:      Creating library C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Development\Cisk\UE4Editor-Cisk-7352.suppressed.lib and object C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Development\Cisk\UE4Editor-Cisk-7352.suppressed.exp
+[2022.03.27-16.09.35:937][598]CompilerResultsLog:   [9/9] CiskEditor.target
+[2022.03.27-16.09.35:937][598]CompilerResultsLog: Total time in Parallel executor: 10.99 seconds
+[2022.03.27-16.09.35:937][598]CompilerResultsLog: Total execution time: 19.69 seconds
+[2022.03.27-16.09.35:938][598]LogMainFrame: MainFrame: Module compiling took 19.917 seconds
+[2022.03.27-16.09.36:079][598]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cisk' in 0.0006 seconds. Added 11 classes and 2 folders.
+[2022.03.27-16.09.36:090][598]Display: HotReload successful (32 functions remapped  0 scriptstructs remapped)
+[2022.03.27-16.09.36:190][598]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0182 seconds. Added 3833 classes and 930 folders.
+[2022.03.27-16.09.36:198][598]Display: HotReload took 20.2s.
+[2022.03.27-16.09.39:020][660]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-16.09.39:028][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-16.09.39:028][660]PIE: New page: PIE session: GameMap (Mar 27, 2022, 10:09:39 PM)
+[2022.03.27-16.09.39:039][660]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.27-16.09.39:041][660]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.27-16.09.39:041][660]LogPlayLevel: Creating play world package: /Game/GameMap/UEDPIE_0_GameMap
+[2022.03.27-16.09.39:051][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010573s)
+[2022.03.27-16.09.39:053][660]LogAIModule: Creating AISystem for world GameMap
+[2022.03.27-16.09.39:053][660]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2022.03.27-16.09.39:054][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMap/GameMap.GameMap to /Game/GameMap/UEDPIE_0_GameMap.GameMap (0.012774s)
+[2022.03.27-16.09.39:062][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.03.27-16.09.39:063][660]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.27-16.09.39:063][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-16.09.39:063][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-16.09.39:063][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-16.09.39:063][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-16.09.39:063][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.27-16.09.39:063][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.27-16.09.39:063][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.27-16.09.39:063][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-16.09.39:064][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.27-16.09.39:064][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.27-16.09.39:064][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-16.09.39:064][660]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-16.09.39:067][660]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-16.09.39:067][660]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-16.09.39:084][660]LogAudioMixer: Display: Using Audio Device Headphones (JBL TUNE510BT Stereo)
+[2022.03.27-16.09.39:085][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-16.09.39:085][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-16.09.39:085][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-16.09.39:085][660]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-16.09.39:085][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-16.09.39:085][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-16.09.39:087][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-16.09.39:087][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-16.09.39:087][660]LogInit: FAudioDevice initialized.
+[2022.03.27-16.09.39:087][660]LogAudio: Display: Audio Device (ID: 2) registered with world 'GameMap'.
+[2022.03.27-16.09.39:095][660]LogLoad: Game class is 'CISKGameMode_C'
+[2022.03.27-16.09.39:099][660]LogWorld: Bringing World /Game/GameMap/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2022.03.27-19.09.39
+[2022.03.27-16.09.39:100][660]LogWorld: Bringing up level for play took: 0.004346
+[2022.03.27-16.09.39:100][660]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.27-16.09.39:142][660]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.03.27-16.09.39:143][660]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.27-16.09.39:143][660]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.27-16.09.39:143][660]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.27-16.09.39:146][660]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.27-16.09.39:146][660]PIE: Server logged in
+[2022.03.27-16.09.39:147][660]PIE: Play in editor total start time 0.12 seconds.
+[2022.03.27-16.09.40:670][736]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.41:088][761]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.41:304][774]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.42:393][839]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.42:876][868]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.43:077][880]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.43:960][933]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.44:244][950]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.44:410][960]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.44:626][973]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.44:811][984]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.44:994][995]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.45:161][  5]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.45:343][ 16]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.45:810][ 44]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.46:293][ 73]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.47:361][137]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.48:010][176]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.48:461][203]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.48:677][216]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.48:928][231]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.49:127][243]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.49:361][257]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.49:643][274]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.49:844][286]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.50:510][326]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.50:526][327]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.50:560][329]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.50:943][352]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.51:128][363]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.51:310][374]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.51:510][386]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.51:693][397]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.51:845][406]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.52:377][438]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.52:610][452]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.52:712][458]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.52:910][470]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.53:095][481]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.53:261][491]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.53:777][522]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.54:027][537]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.54:144][544]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.54:827][585]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.56:494][685]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.56:861][707]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.09.57:044][718]LogBlueprintUserMessages: [GameMapController_C_0] 1
+[2022.03.27-16.09.57:794][763]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.09.57:944][772]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.58:211][788]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.58:478][804]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.58:694][817]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.58:894][829]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.59:077][840]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.59:295][853]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.59:460][863]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.09.59:661][875]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.10.00:493][925]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.10.01:511][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-16.10.01:511][983]LogWorld: BeginTearingDown for /Game/GameMap/UEDPIE_0_GameMap
+[2022.03.27-16.10.01:512][983]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-16.10.01:513][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-16.10.01:527][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-16.10.01:530][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-16.10.01:538][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-16.10.01:539][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-16.10.01:540][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-16.10.01:546][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.03.27-16.10.01:567][984]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.27-16.11.51:532][436]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.27-16.14.16:017][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap/GameMap" FILE="../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.27-16.14.16:028][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.03.27-16.14.16:088][ 42]LogSavePackage: Moving '../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/GameMap28A0C0BC4280804981ACDEA047190DF9.tmp' to '../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/GameMap.umap'
+[2022.03.27-16.14.16:107][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap/GameMap_BuiltData" FILE="../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/GameMap_BuiltData.uasset" SILENT=true
+[2022.03.27-16.14.16:131][ 42]LogSavePackage: Moving '../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/GameMap_BuiltDataA770393C4200C1D4491D0BADAEBDFF68.tmp' to '../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/GameMap_BuiltData.uasset'
+[2022.03.27-16.14.16:150][ 42]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.27-16.14.16:150][ 42]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GameMap/GameMap_BuiltData.GameMap_BuiltData
+[2022.03.27-16.14.16:150][ 42]LogContentValidation: Display: Validating World /Game/GameMap/GameMap.GameMap
+[2022.03.27-16.14.16:578][ 67]Candidate modules for hot reload:
+[2022.03.27-16.14.16:578][ 67]  Cisk
+[2022.03.27-16.14.16:579][ 67]Launching UnrealBuildTool... [C:/MyShit/UnrealEngine/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Cisk,1232 CiskEditor Win64 Development -Project="C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Cisk.uproject" "C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Cisk.uproject"  -IgnoreJunk]
+[2022.03.27-16.14.16:582][ 67]Warning: Starting HotReload took  0.0s.
+[2022.03.27-16.14.26:529][108]CompilerResultsLog: New page: Compilation - Mar 27, 2022, 10:14:26 PM
+[2022.03.27-16.14.26:529][108]CompilerResultsLog: Parsing headers for CiskEditor
+[2022.03.27-16.14.26:529][108]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Cisk.uproject" "C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\CiskEditor\Development\CiskEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\MrSirene\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.27-16.14.26:529][108]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.03.27-16.14.26:529][108]CompilerResultsLog: Reflection code generated for CiskEditor in 5.7023061 seconds
+[2022.03.27-16.14.26:529][108]CompilerResultsLog: Building CiskEditor...
+[2022.03.27-16.14.26:529][108]CompilerResultsLog: Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.27-16.14.26:529][108]CompilerResultsLog: Building 9 actions with 12 processes...
+[2022.03.27-16.14.26:529][108]CompilerResultsLog:   [1/9] InfantryUnit.cpp
+[2022.03.27-16.14.26:529][108]CompilerResultsLog:   [2/9] BuilderUnit.cpp
+[2022.03.27-16.14.26:529][108]CompilerResultsLog:   [3/9] BaseUnitClass.cpp
+[2022.03.27-16.14.26:530][108]CompilerResultsLog:   [4/9] InfantryUnit.gen.cpp
+[2022.03.27-16.14.26:530][108]CompilerResultsLog:   [5/9] BaseUnitClass.gen.cpp
+[2022.03.27-16.14.26:530][108]CompilerResultsLog:   [6/9] BuilderUnit.gen.cpp
+[2022.03.27-16.14.26:530][108]CompilerResultsLog:   [7/9] UE4Editor-Cisk-1232.lib
+[2022.03.27-16.14.26:530][108]CompilerResultsLog:      Creating library C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Development\Cisk\UE4Editor-Cisk-1232.lib and object C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Development\Cisk\UE4Editor-Cisk-1232.exp
+[2022.03.27-16.14.26:530][108]CompilerResultsLog:   [8/9] UE4Editor-Cisk-1232.dll
+[2022.03.27-16.14.26:530][108]CompilerResultsLog:      Creating library C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Development\Cisk\UE4Editor-Cisk-1232.suppressed.lib and object C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Development\Cisk\UE4Editor-Cisk-1232.suppressed.exp
+[2022.03.27-16.14.26:530][108]CompilerResultsLog:   [9/9] CiskEditor.target
+[2022.03.27-16.14.26:530][108]CompilerResultsLog: Total time in Parallel executor: 2.85 seconds
+[2022.03.27-16.14.26:530][108]CompilerResultsLog: Total execution time: 9.82 seconds
+[2022.03.27-16.14.26:530][108]LogMainFrame: MainFrame: Module compiling took 9.958 seconds
+[2022.03.27-16.14.26:593][108]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cisk' in 0.0004 seconds. Added 11 classes and 2 folders.
+[2022.03.27-16.14.26:600][108]Display: HotReload successful (32 functions remapped  0 scriptstructs remapped)
+[2022.03.27-16.14.26:682][108]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0274 seconds. Added 3833 classes and 930 folders.
+[2022.03.27-16.14.26:691][108]Display: HotReload took 10.1s.
+[2022.03.27-16.15.13:711][316]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.27-16.15.14:558][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap/GameMap" FILE="../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.27-16.15.14:566][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.27-16.15.14:611][364]LogSavePackage: Moving '../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/GameMap0169826C477B8F66E7F653ACCA4D1D52.tmp' to '../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/GameMap.umap'
+[2022.03.27-16.15.14:627][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap/GameMap_BuiltData" FILE="../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/GameMap_BuiltData.uasset" SILENT=true
+[2022.03.27-16.15.14:644][364]LogSavePackage: Moving '../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/GameMap_BuiltDataB38E36E941D223FD2A86B9A66E7935F7.tmp' to '../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Content/GameMap/GameMap_BuiltData.uasset'
+[2022.03.27-16.15.14:659][364]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.27-16.15.14:659][364]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GameMap/GameMap_BuiltData.GameMap_BuiltData
+[2022.03.27-16.15.14:659][364]LogContentValidation: Display: Validating World /Game/GameMap/GameMap.GameMap
+[2022.03.27-16.15.15:295][401]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-16.15.15:302][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-16.15.15:302][401]PIE: New page: PIE session: GameMap (Mar 27, 2022, 10:15:15 PM)
+[2022.03.27-16.15.15:302][401]LogPlayLevel: Creating play world package: /Game/GameMap/UEDPIE_0_GameMap
+[2022.03.27-16.15.15:312][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010122s)
+[2022.03.27-16.15.15:313][401]LogAIModule: Creating AISystem for world GameMap
+[2022.03.27-16.15.15:314][401]LogPlayLevel: PIE: World Init took: (0.001820s)
+[2022.03.27-16.15.15:314][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMap/GameMap.GameMap to /Game/GameMap/UEDPIE_0_GameMap.GameMap (0.012158s)
+[2022.03.27-16.15.15:321][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.03.27-16.15.15:322][401]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.27-16.15.15:322][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-16.15.15:322][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-16.15.15:322][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-16.15.15:322][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-16.15.15:322][401]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.27-16.15.15:322][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.27-16.15.15:322][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.27-16.15.15:322][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-16.15.15:323][401]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.27-16.15.15:324][401]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.27-16.15.15:324][401]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-16.15.15:324][401]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-16.15.15:328][401]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-16.15.15:328][401]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-16.15.15:342][401]LogAudioMixer: Display: Using Audio Device Headphones (JBL TUNE510BT Stereo)
+[2022.03.27-16.15.15:343][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-16.15.15:343][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-16.15.15:343][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-16.15.15:343][401]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-16.15.15:343][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-16.15.15:343][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-16.15.15:345][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-16.15.15:345][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-16.15.15:345][401]LogInit: FAudioDevice initialized.
+[2022.03.27-16.15.15:345][401]LogAudio: Display: Audio Device (ID: 3) registered with world 'GameMap'.
+[2022.03.27-16.15.15:355][401]LogLoad: Game class is 'CISKGameMode_C'
+[2022.03.27-16.15.15:360][401]LogWorld: Bringing World /Game/GameMap/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2022.03.27-19.15.15
+[2022.03.27-16.15.15:361][401]LogWorld: Bringing up level for play took: 0.004872
+[2022.03.27-16.15.15:361][401]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.27-16.15.15:363][401]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.27-16.15.15:364][401]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.27-16.15.15:364][401]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.27-16.15.15:366][401]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.27-16.15.15:366][401]PIE: Server logged in
+[2022.03.27-16.15.15:367][401]PIE: Play in editor total start time 0.066 seconds.
+[2022.03.27-16.15.17:231][511]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.15.17:681][538]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.15.18:081][562]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.15.18:182][568]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.18:597][593]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.18:866][609]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.19:081][622]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.19:265][633]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.19:464][645]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.19:632][655]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.19:798][665]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.19:982][676]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.20:581][712]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.15.21:282][754]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.15.21:465][765]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.21:664][777]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.21:832][787]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.22:031][799]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.22:232][811]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.22:431][823]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.22:582][832]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.22:731][841]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.22:899][851]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.23:047][860]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.23:531][889]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.15.23:964][915]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.15.24:115][924]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.24:298][935]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.24:499][947]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.24:698][959]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.25:432][  3]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.15.25:814][ 26]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.15.25:966][ 35]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.26:448][ 64]LogBlueprintUserMessages: [GameMapController_C_0] 2
+[2022.03.27-16.15.27:818][146]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.15.28:302][175]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.15.28:751][202]LogBlueprintUserMessages: [Tile0202] Hello
+[2022.03.27-16.15.29:068][221]LogBlueprintUserMessages: [Tile0201] Hello
+[2022.03.27-16.15.29:185][228]LogBlueprintUserMessages: [GameMapController_C_0] 2

@@ -1,0 +1,5 @@
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Development\Cisk\Definitions.Cisk.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Source\Cisk\Bunker.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Source\Cisk\MapStructure.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Inc\Cisk\MapStructure.generated.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4Editor\Inc\Cisk\Bunker.generated.h

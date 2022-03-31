@@ -1,0 +1,3 @@
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4\Development\Cisk\Definitions.Cisk.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Source\Cisk\GameData.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4\Inc\Cisk\GameData.generated.h

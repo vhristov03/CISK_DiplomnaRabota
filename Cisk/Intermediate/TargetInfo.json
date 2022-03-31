@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Cisk",
+			"Path": "C:\\Users\\MrSirene\\Documents\\Unreal Projects\\Cisk\\Source\\Cisk.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CiskEditor",
+			"Path": "C:\\Users\\MrSirene\\Documents\\Unreal Projects\\Cisk\\Source\\CiskEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

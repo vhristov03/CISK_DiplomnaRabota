@@ -1,0 +1,2193 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+Stats thread started at 0.321308
+ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+Loading text-based GConfig....
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin Paper2D
+Mounting plugin LiveLink
+Mounting plugin AISupport
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin GameplayCameras
+Mounting plugin LightPropagationVolume
+Mounting plugin OodleData
+Mounting plugin OodleNetwork
+Mounting plugin AnimationSharing
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin PerforceSourceControl
+Mounting plugin PixWinPlugin
+Mounting plugin PluginUtils
+Mounting plugin PlasticSourceControl
+Mounting plugin PropertyAccessNode
+Mounting plugin SubversionSourceControl
+Mounting plugin TextureFormatOodle
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin UObjectPlugin
+Mounting plugin Niagara
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin AssetManagerEditor
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin CryptoKeys
+Mounting plugin CurveEditorTools
+Mounting plugin FacialAnimation
+Mounting plugin DataValidation
+Mounting plugin GameplayTagsEditor
+Mounting plugin GeometryMode
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin MaterialAnalyzer
+Mounting plugin PluginBrowser
+Mounting plugin SpeedTreeImporter
+Mounting plugin AlembicImporter
+Mounting plugin AutomationUtils
+Mounting plugin BackChannel
+Mounting plugin ChaosNiagara
+Mounting plugin ChaosClothEditor
+Mounting plugin ChaosCloth
+Mounting plugin ChaosSolverPlugin
+Mounting plugin ChaosEditor
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin DatasmithContent
+Mounting plugin GeometryProcessing
+Mounting plugin VariantManagerContent
+Mounting plugin MagicLeap
+Mounting plugin LuminPlatformFeatures
+Mounting plugin MotoSynth
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin OpenImageDenoise
+Mounting plugin MagicLeapMedia
+Mounting plugin PlatformCrypto
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin PlanarCut
+Mounting plugin ProxyLODPlugin
+Mounting plugin PythonScriptPlugin
+Mounting plugin MLSDK
+Mounting plugin SkeletalReduction
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin ImgMedia
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin UdpMessaging
+Mounting plugin TcpMessaging
+Mounting plugin ActorSequence
+Mounting plugin MatineeToLevelSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin TemplateSequence
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemNull
+Mounting plugin LauncherChunkInstaller
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin ActorLayerUtilities
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AndroidPermission
+Mounting plugin AppleMoviePlayer
+Mounting plugin AppleImageUtils
+Mounting plugin ArchVisCharacter
+Mounting plugin AssetTags
+Mounting plugin AudioCapture
+Mounting plugin AudioSynesthesia
+Mounting plugin CableComponent
+Mounting plugin ChunkDownloader
+Mounting plugin CustomMeshComponent
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin EditableMesh
+Mounting plugin GooglePAD
+Mounting plugin GoogleCloudMessaging
+Mounting plugin ScreenshotTools
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin OpenXR
+Mounting plugin OpenXREyeTracker
+Mounting plugin OpenXRHandTracking
+Mounting plugin PhysXVehicles
+Mounting plugin Takes
+Mounting plugin PostSplashScreen
+Mounting plugin CameraShakePreviewer
+Mounting plugin ProceduralMeshComponent
+Mounting plugin PropertyAccessEditor
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SignificanceManager
+Mounting plugin SoundFields
+Mounting plugin Synthesis
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin ContentBrowserFileDataSource
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OculusVR
+Mounting plugin SteamVR
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE4+Release-4.27-CL-17735300
+Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+Net CL: 17155196
+OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+Compiled (64-bit): Oct  6 2021 14:42:51
+Compiled with Visual C++: 19.24.28315.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.27
+Command Line:  "C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Cisk.uproject" -run=cook -cookonthefly -unattended -CrashForUAT -log -abslog="C:\Users\MrSirene\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+MyShit+UnrealEngine+UE_4.27\Server.log" -SessionId=A3E3AD444D7605DD0333C5BB52BB74E2 -SessionOwner=MrSirene -SessionName=DESKTOP-MNVU0BQ
+Base Directory: C:/MyShit/UnrealEngine/UE_4.27/Engine/Binaries/Win64/
+Allocator: TBB
+Installed Engine Build: 1
+Number of dev versions registered: 29
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 16 GB [17002713088 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Config/Windows/Editor.ini]
+Computer: DESKTOP-MNVU0BQ
+User: MrSirene
+CPU Page size=4096, Cores=6
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=15.8GB (16GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 139.34 MB used, 139.34 MB peak
+Process Virtual Memory: 111.30 MB used, 111.30 MB peak
+Physical Memory: 10068.08 MB used,  6146.97 MB free, 16215.05 MB total
+Virtual Memory: 134209944.00 MB used,  7782.84 MB free, 134217728.00 MB total
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxNoEditor'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxAArch64NoEditor'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'MacNoEditor'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For Windows
+Lib vorbis DLL was dynamically loaded.
+Oodle Texture 2.9.0 init RDO Off
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: PhysX
+Using OS detected language (en-US).
+Using OS detected locale (en-US).
+No specific localization for 'en-US' exists, so the 'en' localization will be used.
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Intermediate/Shaders/WorkingDirectory/14608/).
+Cleaned the shader compiler working directory 'C:/Users/MrSirene/AppData/Local/Temp/UnrealShaderWorkingDir/6CDFFB5F4B30F16FD0432F90F5D451FB/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.08s 94MB C:/Users/MrSirene/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/MrSirene/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Speed tests for C:/Users/MrSirene/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+Performance to C:/Users/MrSirene/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=779.15MBs, RandomWriteSpeed=153.46MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/MrSirene/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+FAssetRegistry took 0.0031 seconds to start up
+Selected Device Profile: [Windows]
+Active device profile: [00000166221EA900][000001661C449A80 49] Windows
+Profiles: [00000166221EA900][000001661C449A80 49] Windows, [00000166221A3100][000001661C457C00 49] WindowsNoEditor, [00000166221EB900][000001661C45A200 49] WindowsServer, [00000166221A1000][000001661C45E380 49] WindowsClient, [00000166221EB200][000001661C462500 49] IOS, [00000166221A0C00][000001661C466680 49] iPadAir, [00000166221E8900][000001661C46A800 49] iPadAir2, [0000016622152000][00000166210D0AC0 49] IPadPro, [0000016622152100][00000166210C6B00 49] iPadAir3, [00000166221EBA00][00000166210DAC80 49] iPadAir4, [0000016622152400][00000166210DEE00 49] iPadMini2, [00000166221E8600][00000166210E2F80 49] iPadMini3, [0000016622152600][00000166210E7100 49] iPadMini4, [00000166221E8500][00000166210EB280 49] iPadMini5, [0000016622199900][00000166210EF4C0 49] iPhone6, [0000016622199A00][000001661C44D500 49] iPodTouch6, [0000016622152300][00000166210F7740 49] iPhone7, [0000016622151B00][00000166210F3780 49] iPodTouch7, [0000016622199F00][0000016625521900 49] iPhone5S, [0000016622151D00][0000016625525A80 49] iPhone6Plus, [000001662219AA00][0000016625529C00 49] iPhone6S, [0000016622152700][000001662552C200 49] iPhone6SPlus, [000001662219A900][0000016625530380 49] iPhone7Plus, [0000016622151C00][0000016625534500 49] iPhoneSE, [000001662219BA00][0000016625538680 49] iPhone8, [0000016622150D00][000001662553C800 49] iPhone8Plus, [000001662219BE00][0000016625540980 49] iPhoneX, [0000016622152800][0000016625544B00 49] iPhoneXS, [000001662219BD00][0000016625548C80 49] iPhoneXSMax, [0000016622153100][000001662554CE00 49] iPhoneXR, [000001662219B600][0000016625550F80 49] iPhone11, [0000016622152D00][0000016625555100 49] iPhone11Pro, [000001662219AE00][0000016625559280 49] iPhone11ProMax, [0000016622151300][000001662555D400 49] iPhoneSE2, [000001662219A500][0000016625561580 49] iPhone12Mini, [0000016622152F00][00000166210FB6C0 49] iPhone12, [0000016622199800][0000016625565800 49] iPhone12Pro, [0000016622152500][0000016625569940 49] iPhone12ProMax, [0000016622198100][0000016625571AC0 49] iPadPro105, [0000016622150900][00000166255740C0 49] iPadPro129, [0000016622198E00][0000016625578240 49] iPadPro97, [0000016622150A00][000001662557C3C0 49] iPadPro2_129, [000001662219BB00][0000016625580540 49] iPad5, [0000016622153600][00000166255846C0 49] iPad6, [00000166221A0200][0000016625588840 49] iPad7, [0000016622224800][000001662558C9C0 49] iPad8, [00000166221A2A00][0000016625590B40 49] iPadPro11, [0000016622225A00][0000016625594CC0 49] iPadPro2_11, [00000166221A1700][0000016625598E40 49] iPadPro3_129, [0000016622225700][000001662559CFC0 49] iPadPro4_129, [00000166221A1200][00000166255A1140 49] AppleTV, [0000016622225100][00000166255A52C0 49] AppleTV4K, [00000166221A2B00][00000166255A9440 49] TVOS, [0000016622225800][00000166255AD5C0 49] Mac, [00000166221A0800][00000166255B1740 49] MacClient, [0000016622225400][000001662556D880 49] MacNoEditor, [00000166221A1600][00000166255B59C0 49] MacServer, [0000016622225D00][00000166255B9B00 49] Linux, [0000016622150E00][00000166255BC0C0 49] LinuxAArch64, [0000016622198B00][00000166255C4240 49] LinuxNoEditor, [0000016622153000][00000166255C83C0 49] LinuxAArch64NoEditor, [0000016622198A00][00000166255CC540 49] LinuxClient, [0000016622153A00][00000166255D06C0 49] LinuxAArch64Client, [000001662219B000][00000166255D4840 49] LinuxServer, [0000016622152900][00000166255D89C0 49] LinuxAArch64Server, [0000016622199500][00000166255DCB40 49] Android, [0000016622150600][00000166255E0CC0 49] Android_Low, [000001662219B200][00000166255E4E40 49] Android_Mid, [0000016622153B00][00000166255E8FC0 49] Android_High, [0000016622198500][00000166255ED140 49] Android_Default, [0000016622153300][00000166255F12C0 49] Android_Adreno4xx, [0000016622199D00][00000166255F5440 49] Android_Adreno5xx_Low, [0000016622150800][00000166255F95C0 49] Android_Adreno5xx, [0000016622224200][00000166255FD740 49] Android_Adreno6xx, [0000016622151F00][00000166256018C0 49] Android_Adreno6xx_Vulkan, [0000016622224B00][00000166255C1A00 49] Android_Mali_T6xx, [0000016622153C00][0000016625605B40 49] Android_Mali_T7xx, [0000016622225B00][0000016625608100 49] Android_Mali_T8xx, [0000016622151A00][000001662560C240 49] Android_Mali_G71, [0000016622199600][00000166256143C0 49] Android_Mali_G72, [0000016622150700][0000016625618540 49] Android_Mali_G72_Vulkan, [000001662219B400][000001662561C6C0 49] Android_Mali_G76, [0000016622153900][0000016625620840 49] Android_Mali_G76_Vulkan, [000001662219B900][00000166256249C0 49] Android_Mali_G77, [0000016622153D00][0000016625628B40 49] Android_Mali_G77_Vulkan, [0000016622199400][000001662562CCC0 49] Android_Mali_G78, [0000016622150500][0000016625630E40 49] Android_Mali_G78_Vulkan, [0000016622198400][0000016625634FC0 49] Android_Mali_G710, [0000016622152B00][0000016625639140 49] Android_Mali_G710_Vulkan, [0000016622198F00][000001662563D2C0 49] Android_Vulkan_SM5, [0000016622151100][0000016625641440 49] Android_PowerVR_G6xxx, [000001662219B700][00000166256455C0 49] Android_PowerVR_GT7xxx, [0000016622153F00][0000016625649740 49] Android_PowerVR_GE8xxx, [0000016622199B00][000001662564D8C0 49] Android_PowerVR_GM9xxx, [0000016622153800][0000016625651A40 49] Android_PowerVR_GM9xxx_Vulkan, [0000016622198300][0000016625655BC0 49] Android_TegraK1, [0000016622152A00][0000016625610180 49] Android_Unknown_Vulkan, [0000016622199700][00000166256582C0 49] Lumin, [0000016622151900][000001662565C400 49] Lumin_Desktop, [000001662219AC00][0000016625664580 49] HoloLens, 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+Cisk 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 850332282)
+PokeAHoleMaterial loaded successfully
+Loaded 0 collections in 0.001943 seconds
+Scanning file cache for directory 'C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Content/Developers/MrSirene/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Content/Collections/' took 0.00s
+Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+Niagara Debugger Client Initialized | Session: A3E3AD444D7605DD0333C5BB52BB74E2 | Instance: BFC917D64CDAAA28CFA461AF58CEEE8B (DESKTOP-MNVU0BQ-14608).
+Using Python 3.7.7
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Found projects:
+OIDN starting up
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+OculusInput pre-init called
+23071 objects as part of root set at end of initial load.
+6365264 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Executing Class /Script/UnrealEd.CookCommandlet
+Initializing Editor Engine...
+Initializing Engine...
+UGameplayTagsManager::InitializeManager -  0.000 s
+Initializing FReadOnlyCVARCache
+Creating AISystem for world Untitled
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Saved boot cache 0.06s 94MB C:/Users/MrSirene/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+Texture streaming: Disabled
+Initializing Editor Engine Completed
+New page: Editor Load
+CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+Mobile HDR setting 1
+Creating asset registry
+Unreal Network File Server starting up...
+Unreal Network File Server is ready for client connections on 0.0.0.0:41899!
+GC...
+Compacting FUObjectHashTables data took   1.29ms
+Client Client For  connected.
+Connection received of version  local version //UE4/Release-4.27 17155196
+Connection tried to connect with incompatible version
+    Possible Target Platform from client: WindowsNoEditor
+   Checking against: AllDesktop
+   Checking against: Android
+   Checking against: Android_ASTC
+   Checking against: Android_DXT
+   Checking against: Android_ETC2
+   Checking against: AndroidClient
+   Checking against: Android_ASTCClient
+   Checking against: Android_DXTClient
+   Checking against: Android_ETC2Client
+   Checking against: Android_Multi
+   Checking against: Android_MultiClient
+   Checking against: IOSClient
+   Checking against: IOS
+   Checking against: Linux
+   Checking against: LinuxNoEditor
+   Checking against: LinuxClient
+   Checking against: LinuxServer
+   Checking against: LinuxAArch64NoEditor
+   Checking against: LinuxAArch64Client
+   Checking against: LinuxAArch64Server
+   Checking against: Lumin
+   Checking against: LuminClient
+   Checking against: MacNoEditor
+   Checking against: Mac
+   Checking against: MacClient
+   Checking against: MacServer
+   Checking against: TVOSClient
+   Checking against: TVOS
+   Checking against: WindowsNoEditor
+    Connected EngineDir      = ../../../Engine/
+        Local EngineDir      = ../../../Engine/
+    Connected ProjectDir     = ../../../Cisk/
+        Local ProjectDir     = C:/Users/MrSirene/Documents/Unreal Projects/Cisk/
+    Connected EnginePlatformExtDir = ../../../Engine/Platforms/
+        Local EnginePlatformExtDir = ../../../Engine/Platforms/
+    Connected ProjectPlatformExtDir = ../../../Cisk/Platforms/
+        Local ProjectPlatformExtDir = ../../../../../../Users/MrSirene/Documents/Unreal Projects/Cisk/Platforms/
+Got a recompile request on non-game thread
+Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+Clearing all cooked content for platform WindowsNoEditor
+Sandbox cleanup took 0.044 seconds for platforms WindowsNoEditor
+Saving asset registry v8.
+Generated asset registry num assets 3183, size is 1076.94kb
+Done saving asset registry.
+Completed recompile...
+Getting files for 2 directories, game = ../../../Cisk/Cisk.uproject, platform = WindowsNoEditor
+    Sandbox dir = C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Saved/Cooked/WindowsNoEditor/
+	../../../Engine/
+	C:/Users/MrSirene/Documents/Unreal Projects/Cisk/
+Scanning server files for timestamps...
+Scanned server files, found 35469 files in 4.75 seconds
+Read ../../../Engine/Config/BaseEngine.ini, 167283 bytes
+Read C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Cisk.uproject, 249 bytes
+Read ../../../Engine/Config/Android/DataDrivenPlatformInfo.ini, 8607 bytes
+Read ../../../Engine/Config/Base.ini, 33 bytes
+Read ../../../Engine/Config/Android/BaseAndroidEngine.ini, 131 bytes
+Read C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Config/DefaultEngine.ini, 660 bytes
+Read ../../../Engine/Config/Android/AndroidEngine.ini, 4095 bytes
+Read ../../../Engine/Config/HoloLens/DataDrivenPlatformInfo.ini, 925 bytes
+Read ../../../Engine/Config/IOS/DataDrivenPlatformInfo.ini, 2874 bytes
+Read ../../../Engine/Config/Linux/DataDrivenPlatformInfo.ini, 2798 bytes
+Read ../../../Engine/Config/LinuxAArch64/DataDrivenPlatformInfo.ini, 2357 bytes
+Read ../../../Engine/Config/Lumin/DataDrivenPlatformInfo.ini, 1314 bytes
+Read ../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini, 2779 bytes
+Read ../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini, 1146 bytes
+Read ../../../Engine/Config/Windows/DataDrivenPlatformInfo.ini, 5498 bytes
+Read ../../../Engine/Config/Windows/BaseWindowsEngine.ini, 95 bytes
+Read ../../../Engine/Config/Windows/WindowsEngine.ini, 721 bytes
+Read C:/Users/MrSirene/Documents/Unreal Projects/Cisk/AssetRegistry.bin, 1102787 bytes
+Read ../../../Engine/Plugins/BlueprintFileUtils/BlueprintFileUtils.uplugin, 575 bytes
+Read ../../../Engine/Plugins/MeshPainting/MeshPainting.uplugin, 723 bytes
+Read ../../../Engine/Plugins/XGEController/XGEController.uplugin, 656 bytes
+Read ../../../Engine/Plugins/Animation/GameplayInsights/GameplayInsights.uplugin, 780 bytes
+Read ../../../Engine/Plugins/Animation/LiveLinkCurveDebugUI/LiveLinkCurveDebugUI.uplugin, 622 bytes
+Read ../../../Engine/Plugins/AI/AISupport/AISupport.uplugin, 648 bytes
+Read ../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin, 1032 bytes
+Read ../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin, 923 bytes
+Read ../../../Engine/Plugins/Animation/LiveLink/LiveLink.uplugin, 1109 bytes
+Read ../../../Engine/Plugins/Cameras/GameplayCameras/GameplayCameras.uplugin, 657 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin, 1055 bytes
+Read ../../../Engine/Plugins/Animation/RigLogic/RigLogic.uplugin, 1003 bytes
+Read ../../../Engine/Plugins/Compositing/Composure/Composure.uplugin, 1183 bytes
+Read ../../../Engine/Plugins/Compositing/OpenColorIO/OpenColorIO.uplugin, 731 bytes
+Read ../../../Engine/Plugins/AI/UE4ML/UE4ML.uplugin, 791 bytes
+Read ../../../Engine/Plugins/AI/HTNPlanner/HTNPlanner.uplugin, 767 bytes
+Read ../../../Engine/Plugins/AI/EnvironmentQueryEditor/EnvironmentQueryEditor.uplugin, 746 bytes
+Read ../../../Engine/Plugins/Compositing/LensDistortion/LensDistortion.uplugin, 638 bytes
+Read ../../../Engine/Plugins/Compositing/OpenCVLensDistortion/OpenCVLensDistortion.uplugin, 1124 bytes
+Read ../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin, 642 bytes
+Read ../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin, 628 bytes
+Read ../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin, 563 bytes
+Read ../../../Engine/Plugins/Compression/OodleData/OodleData.uplugin, 710 bytes
+Read ../../../Engine/Plugins/FX/CascadeToNiagaraConverter/CascadeToNiagaraConverter.uplugin, 812 bytes
+Read ../../../Engine/Plugins/Developer/AnimationSharing/AnimationSharing.uplugin, 786 bytes
+Read ../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin, 630 bytes
+Read ../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin, 570 bytes
+Read ../../../Engine/Plugins/Developer/PropertyAccessNode/PropertyAccessNode.uplugin, 681 bytes
+Read ../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin, 576 bytes
+Read ../../../Engine/Plugins/Developer/PluginUtils/PluginUtils.uplugin, 565 bytes
+Read ../../../Engine/Plugins/Developer/PlasticSourceControl/PlasticSourceControl.uplugin, 652 bytes
+Read ../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin, 658 bytes
+Read ../../../Engine/Plugins/Developer/RenderDocPlugin/RenderDocPlugin.uplugin, 594 bytes
+Read ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/CLionSourceCodeAccess.uplugin, 658 bytes
+Read ../../../Engine/Plugins/Compression/OodleNetwork/OodleNetwork.uplugin, 604 bytes
+Read ../../../Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin, 557 bytes
+Read ../../../Engine/Plugins/Developer/PixWinPlugin/PixWinPlugin.uplugin, 581 bytes
+Read ../../../Engine/Plugins/Developer/TextureFormatOodle/TextureFormatOodle.uplugin, 497 bytes
+Read ../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin, 659 bytes
+Read ../../../Engine/Plugins/Developer/RiderSourceCodeAccess/RiderSourceCodeAccess.uplugin, 672 bytes
+Read ../../../Engine/Plugins/Developer/TraceDataFiltering/TraceDataFilters.uplugin, 690 bytes
+Read ../../../Engine/Plugins/Developer/TraceSourceFiltering/TraceSourceFilters.uplugin, 962 bytes
+Read ../../../Engine/Plugins/FX/NiagaraExtras/NiagaraExtras.uplugin, 463 bytes
+Read ../../../Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin, 607 bytes
+Read ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/VisualStudioCodeSourceCodeAccess.uplugin, 712 bytes
+Read ../../../Engine/Plugins/Editor/AssetSearch/AssetSearch.uplugin, 583 bytes
+Read ../../../Engine/Plugins/Editor/BlueprintMaterialTextureNodes/BlueprintMaterialTextureNodes.uplugin, 663 bytes
+Read ../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin, 802 bytes
+Read ../../../Engine/Plugins/Editor/CurveEditorTools/CurveEditorTools.uplugin, 536 bytes
+Read ../../../Engine/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin, 649 bytes
+Read ../../../Engine/Plugins/Editor/CryptoKeys/CryptoKeys.uplugin, 699 bytes
+Read ../../../Engine/Plugins/Editor/DataValidation/DataValidation.uplugin, 578 bytes
+Read ../../../Engine/Plugins/Editor/GameplayTagsEditor/GameplayTagsEditor.uplugin, 660 bytes
+Read ../../../Engine/Plugins/Editor/GeometryMode/GeometryMode.uplugin, 721 bytes
+Read ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin, 799 bytes
+Read ../../../Engine/Plugins/FX/Niagara/Niagara.uplugin, 1231 bytes
+Read ../../../Engine/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin, 767 bytes
+Read ../../../Engine/Plugins/Editor/MaterialAnalyzer/MaterialAnalyzer.uplugin, 654 bytes
+Read ../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin, 660 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin, 546 bytes
+Read ../../../Engine/Plugins/Editor/GLTFImporter/GLTFImporter.uplugin, 487 bytes
+Read ../../../Engine/Plugins/Editor/StylusInput/StylusInput.uplugin, 637 bytes
+Read ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin, 592 bytes
+Read ../../../Engine/Plugins/Experimental/ActorPalette/ActorPalette.uplugin, 649 bytes
+Read ../../../Engine/Plugins/Experimental/AppleVision/AppleVision.uplugin, 985 bytes
+Read ../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin, 687 bytes
+Read ../../../Engine/Plugins/Experimental/BackChannel/BackChannel.uplugin, 546 bytes
+Read ../../../Engine/Plugins/Experimental/BlastPlugin/BlastPlugin.uplugin, 793 bytes
+Read ../../../Engine/Plugins/Experimental/ChaosCaching/ChaosCaching.uplugin, 709 bytes
+Read ../../../Engine/Plugins/Experimental/ChaosSolverPlugin/ChaosSolverPlugin.uplugin, 595 bytes
+Read ../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin, 542 bytes
+Read ../../../Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin, 909 bytes
+Read ../../../Engine/Plugins/Experimental/ChaosClothEditor/ChaosClothEditor.uplugin, 641 bytes
+Read ../../../Engine/Plugins/Experimental/ChaosCloth/ChaosCloth.uplugin, 615 bytes
+Read ../../../Engine/Plugins/Experimental/ChaosVehiclesPlugin/ChaosVehiclesPlugin.uplugin, 673 bytes
+Read ../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin, 586 bytes
+Read ../../../Engine/Plugins/Experimental/ChaosEditor/ChaosEditor.uplugin, 698 bytes
+Read ../../../Engine/Plugins/Experimental/ChaosNiagara/ChaosNiagara.uplugin, 683 bytes
+Read ../../../Engine/Plugins/Editor/MeshEditor/MeshEditor.uplugin, 833 bytes
+Read ../../../Engine/Plugins/Experimental/AutomationUtils/AutomationUtils.uplugin, 720 bytes
+Read ../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin, 601 bytes
+Read ../../../Engine/Plugins/Experimental/CommonUI/CommonUI.uplugin, 841 bytes
+Read ../../../Engine/Plugins/Experimental/EnhancedInput/EnhancedInput.uplugin, 724 bytes
+Read ../../../Engine/Plugins/Experimental/FullBodyIK/FullBodyIK.uplugin, 536 bytes
+Read ../../../Engine/Plugins/Experimental/ExampleAssetEditor/ExampleAssetEditor.uplugin, 647 bytes
+Read ../../../Engine/Plugins/Experimental/FieldSystemPlugin/FieldSystemPlugin.uplugin, 597 bytes
+Read ../../../Engine/Plugins/Experimental/ControlRig/ControlRig.uplugin, 870 bytes
+Read ../../../Engine/Plugins/Experimental/GeometryCache/GeometryCache.uplugin, 1194 bytes
+Read ../../../Engine/Plugins/Experimental/GeometryCacheAbcFile/GeometryCacheAbcFile.uplugin, 831 bytes
+Read ../../../Engine/Plugins/Experimental/CommonConversation/CommonConversation.uplugin, 751 bytes
+Read ../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin, 608 bytes
+Read ../../../Engine/Plugins/Experimental/ColorCorrectRegions/ColorCorrectRegions.uplugin, 660 bytes
+Read ../../../Engine/Plugins/Importers/AlembicHairImporter/AlembicHairImporter.uplugin, 640 bytes
+Read ../../../Engine/Plugins/Importers/USDMultiUser/USDMultiUser.uplugin, 817 bytes
+Read ../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/GeometryCollectionPlugin.uplugin, 1007 bytes
+Read ../../../Engine/Plugins/Experimental/GameFeatures/GameFeatures.uplugin, 655 bytes
+Read ../../../Engine/Plugins/Experimental/Gauntlet/Gauntlet.uplugin, 558 bytes
+Read ../../../Engine/Plugins/Enterprise/DatasmithC4DImporter/DatasmithC4DImporter.uplugin, 1083 bytes
+Read ../../../Engine/Plugins/Enterprise/AxFImporter/AxFImporter.uplugin, 625 bytes
+Read ../../../Engine/Plugins/Enterprise/DataprepEditor/DataprepEditor.uplugin, 1158 bytes
+Read ../../../Engine/Plugins/Importers/USDImporter/USDImporter.uplugin, 1964 bytes
+Read ../../../Engine/Plugins/Enterprise/DatasmithFBXImporter/DatasmithFBXImporter.uplugin, 1005 bytes
+Read ../../../Engine/Plugins/Enterprise/DatasmithContent/DatasmithContent.uplugin, 809 bytes
+Read ../../../Engine/Plugins/Enterprise/StaticMeshEditorExtension/StaticMeshEditorExtension.uplugin, 922 bytes
+Read ../../../Engine/Plugins/Enterprise/DatasmithGLTFImporter/DatasmithGLTFImporter.uplugin, 594 bytes
+Read ../../../Engine/Plugins/Enterprise/DatasmithCADImporter/DatasmithCADImporter.uplugin, 2324 bytes
+Read ../../../Engine/Plugins/Enterprise/DatasmithImporter/DatasmithImporter.uplugin, 1343 bytes
+Read ../../../Engine/Plugins/Enterprise/MDLImporter/MDLImporter.uplugin, 673 bytes
+Read ../../../Engine/Plugins/Experimental/GeometryProcessing/GeometryProcessing.uplugin, 827 bytes
+Read ../../../Engine/Plugins/Enterprise/DatasmithIFCImporter/DatasmithIFCImporter.uplugin, 621 bytes
+Read ../../../Engine/Plugins/Enterprise/LidarPointCloud/LidarPointCloud.uplugin, 891 bytes
+Read ../../../Engine/Plugins/Experimental/GizmoFramework/GizmoFramework.uplugin, 643 bytes
+Read ../../../Engine/Plugins/Enterprise/VariantManager/VariantManager.uplugin, 705 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeap/MagicLeap.uplugin, 3406 bytes
+Read ../../../Engine/Plugins/Lumin/LuminPlatformFeatures/LuminPlatformFeatures.uplugin, 782 bytes
+Read ../../../Engine/Plugins/Enterprise/VariantManagerContent/VariantManagerContent.uplugin, 773 bytes
+Read ../../../Engine/Plugins/Experimental/ImpostorBaker/ImpostorBaker.uplugin, 636 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapBLE/MagicLeapBLE.uplugin, 832 bytes
+Read ../../../Engine/Plugins/Experimental/ImagePlate/ImagePlate.uplugin, 664 bytes
+Read ../../../Engine/Plugins/Experimental/GPULightmass/GPULightmass.uplugin, 785 bytes
+Read ../../../Engine/Plugins/Experimental/GizmoEdMode/GizmoEdMode.uplugin, 577 bytes
+Read ../../../Engine/Plugins/Experimental/Landmass/Landmass.uplugin, 527 bytes
+Read ../../../Engine/Plugins/Experimental/ModularGameplay/ModularGameplay.uplugin, 514 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapConnections/MagicLeapConnections.uplugin, 782 bytes
+Read ../../../Engine/Plugins/Experimental/LiveLinkControlRig/LiveLinkControlRig.uplugin, 642 bytes
+Read ../../../Engine/Plugins/Experimental/ModelingToolsEditorMode/ModelingToolsEditorMode.uplugin, 776 bytes
+Read ../../../Engine/Plugins/Experimental/MeshModelingToolset/MeshModelingToolset.uplugin, 1404 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapContacts/MagicLeapContacts.uplugin, 829 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/MagicLeapLightEstimation.uplugin, 784 bytes
+Read ../../../Engine/Plugins/Experimental/MotoSynth/MotoSynth.uplugin, 644 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapCamera/MagicLeapCamera.uplugin, 1376 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapMedia/MagicLeapMedia.uplugin, 1528 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapDispatch/MagicLeapDispatch.uplugin, 761 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapMovement/MagicLeapMovement.uplugin, 829 bytes
+Read ../../../Engine/Plugins/Experimental/PanoramicCapture/PanoramicCapture.uplugin, 671 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapMusicService/MagicLeapMusicService.uplugin, 818 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapNetworking/MagicLeapNetworking.uplugin, 858 bytes
+Read ../../../Engine/Plugins/Experimental/PlatformCrypto/PlatformCrypto.uplugin, 1781 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/MagicLeapPassableWorld.uplugin, 760 bytes
+Read ../../../Engine/Plugins/Experimental/PlanarCutPlugin/PlanarCut.uplugin, 738 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapSharedFile/MagicLeapSharedFile.uplugin, 768 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapTablet/MagicLeapTablet.uplugin, 823 bytes
+Read ../../../Engine/Plugins/Experimental/ProxyLODPlugin/ProxyLODPlugin.uplugin, 639 bytes
+Read ../../../Engine/Plugins/Experimental/RawInput/RawInput.uplugin, 564 bytes
+Read ../../../Engine/Plugins/Experimental/RemoteSession/RemoteSession.uplugin, 1022 bytes
+Read ../../../Engine/Plugins/Experimental/Shotgun/Shotgun.uplugin, 808 bytes
+Read ../../../Engine/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin, 945 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapLocation/MagicLeapLocation.uplugin, 1002 bytes
+Read ../../../Engine/Plugins/Experimental/OpenImageDenoise/OpenImageDenoise.uplugin, 665 bytes
+Read ../../../Engine/Plugins/Experimental/MotionTrailEditorMode/MotionTrailEditorMode.uplugin, 616 bytes
+Read ../../../Engine/Plugins/Experimental/SampleToolsEditorMode/SampleToolsEditorMode.uplugin, 615 bytes
+Read ../../../Engine/Plugins/Media/AjaMedia/AjaMedia.uplugin, 1308 bytes
+Read ../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin, 580 bytes
+Read ../../../Engine/Plugins/Media/AppleProResMedia/AppleProResMedia.uplugin, 853 bytes
+Read ../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin, 1130 bytes
+Read ../../../Engine/Plugins/Media/AndroidCamera/AndroidCamera.uplugin, 1137 bytes
+Read ../../../Engine/Plugins/Experimental/Text3D/Text3D.uplugin, 720 bytes
+Read ../../../Engine/Plugins/Lumin/MLSDK/MLSDK.uplugin, 614 bytes
+Read ../../../Engine/Plugins/Experimental/ShallowWater/ShallowWater.uplugin, 471 bytes
+Read ../../../Engine/Plugins/Experimental/SkeletalReduction/SkeletalReduction.uplugin, 669 bytes
+Read ../../../Engine/Plugins/Media/AudioCaptureTimecodeProvider/AudioCaptureTimecodeProvider.uplugin, 917 bytes
+Read ../../../Engine/Plugins/Media/AvidDNxMedia/AvidDNxMedia.uplugin, 679 bytes
+Read ../../../Engine/Plugins/Experimental/VirtualCamera/VirtualCamera.uplugin, 1676 bytes
+Read ../../../Engine/Plugins/Experimental/VirtualProductionUtilities/VirtualProductionUtilities.uplugin, 1289 bytes
+Read ../../../Engine/Plugins/Experimental/VirtualHeightfieldMesh/VirtualHeightfieldMesh.uplugin, 697 bytes
+Read ../../../Engine/Plugins/Media/BinkMedia/BinkMedia.uplugin, 834 bytes
+Read ../../../Engine/Plugins/Media/BlackmagicMedia/BlackmagicMedia.uplugin, 1430 bytes
+Read ../../../Engine/Plugins/Media/ElectraPlayer/ElectraPlayer.uplugin, 1507 bytes
+Read ../../../Engine/Plugins/Media/HAPMedia/HAPMedia.uplugin, 754 bytes
+Read ../../../Engine/Plugins/Media/HLMedia/HLMedia.uplugin, 1221 bytes
+Read ../../../Engine/Plugins/Media/HardwareEncoders/HardwareEncoders.uplugin, 711 bytes
+Read ../../../Engine/Plugins/Media/LinearTimecode/LinearTimecode.uplugin, 643 bytes
+Read ../../../Engine/Plugins/Media/ImgMedia/ImgMedia.uplugin, 1474 bytes
+Read ../../../Engine/Plugins/Media/MediaFrameworkUtilities/MediaFrameworkUtilities.uplugin, 1102 bytes
+Read ../../../Engine/Plugins/Media/MediaCompositing/MediaCompositing.uplugin, 804 bytes
+Read ../../../Engine/Plugins/Media/MfMedia/MfMedia.uplugin, 1222 bytes
+Read ../../../Engine/Plugins/Media/MediaMovieStreamer/MediaMovieStreamer.uplugin, 654 bytes
+Read ../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin, 675 bytes
+Read ../../../Engine/Plugins/Media/ElectraCDM/ElectraCDM.uplugin, 793 bytes
+Read ../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin, 1153 bytes
+Read ../../../Engine/Plugins/Media/ElectraUtil/ElectraUtil.uplugin, 991 bytes
+Read ../../../Engine/Plugins/Media/WebMMedia/WebMMedia.uplugin, 1049 bytes
+Read ../../../Engine/Plugins/Experimental/Volumetrics/Volumetrics.uplugin, 743 bytes
+Read ../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin, 1290 bytes
+Read ../../../Engine/Plugins/Media/MediaIOFramework/MediaIOFramework.uplugin, 697 bytes
+Read ../../../Engine/Plugins/Experimental/WebSocketNetworking/WebSocketNetworking.uplugin, 884 bytes
+Read ../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin, 480 bytes
+Read ../../../Engine/Plugins/Experimental/Water/Water.uplugin, 1019 bytes
+Read ../../../Engine/Plugins/Media/PixelStreaming/PixelStreaming.uplugin, 959 bytes
+Read ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin, 813 bytes
+Read ../../../Engine/Plugins/MovieScene/ActorSequence/ActorSequence.uplugin, 682 bytes
+Read ../../../Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin, 810 bytes
+Read ../../../Engine/Plugins/MovieScene/MoviePipelineMaskRenderPass/MoviePipelineMaskRenderPass.uplugin, 824 bytes
+Read ../../../Engine/Plugins/Media/TimecodeSynchronizer/TimecodeSynchronizer.uplugin, 814 bytes
+Read ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin, 739 bytes
+Read ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin, 706 bytes
+Read ../../../Engine/Plugins/MovieScene/CustomizableSequencerTracks/CustomizableSequencerTracks.uplugin, 775 bytes
+Read ../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin, 1053 bytes
+Read ../../../Engine/Plugins/MovieScene/MovieRenderPipeline/MovieRenderPipeline.uplugin, 1684 bytes
+Read ../../../Engine/Plugins/MovieScene/TemplateSequence/TemplateSequence.uplugin, 772 bytes
+Read ../../../Engine/Plugins/Online/EOSShared/EOSShared.uplugin, 538 bytes
+Read ../../../Engine/Plugins/MovieScene/ReplayTracks/ReplayTracks.uplugin, 690 bytes
+Read ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin, 580 bytes
+Read ../../../Engine/Plugins/MovieScene/SequencerScripting/SequencerScripting.uplugin, 791 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin, 549 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemGoogle/OnlineSubsystemGoogle.uplugin, 639 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin, 762 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemApple/OnlineSubsystemApple.uplugin, 753 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemEOS/OnlineSubsystemEOS.uplugin, 1013 bytes
+Read ../../../Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin, 1145 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin, 663 bytes
+Read ../../../Engine/Plugins/Online/WebAuth/WebAuth.uplugin, 548 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin, 616 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin, 938 bytes
+Read ../../../Engine/Plugins/Portal/LauncherChunkInstaller/LauncherChunkInstaller.uplugin, 593 bytes
+Read ../../../Engine/Plugins/Performance/PerformanceMonitor/PerformanceMonitor.uplugin, 594 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin, 858 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin, 905 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemTencent/OnlineSubsystemTencent.uplugin, 721 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemTwitch/OnlineSubsystemTwitch.uplugin, 701 bytes
+Read ../../../Engine/Plugins/Runtime/AnimationBudgetAllocator/AnimationBudgetAllocator.uplugin, 637 bytes
+Read ../../../Engine/Plugins/Runtime/AnimDistanceMatching/AnimDistanceMatching.uplugin, 581 bytes
+Read ../../../Engine/Plugins/Runtime/ApexDestruction/ApexDestruction.uplugin, 728 bytes
+Read ../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin, 682 bytes
+Read ../../../Engine/Plugins/Runtime/ActorLayerUtilities/ActorLayerUtilities.uplugin, 668 bytes
+Read ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin, 856 bytes
+Read ../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin, 672 bytes
+Read ../../../Engine/Plugins/Runtime/AndroidPermission/AndroidPermission.uplugin, 552 bytes
+Read ../../../Engine/Plugins/Runtime/AppleImageUtils/AppleImageUtils.uplugin, 797 bytes
+Read ../../../Engine/Plugins/Runtime/AudioCapture/AudioCapture.uplugin, 725 bytes
+Read ../../../Engine/Plugins/Runtime/AudioModulation/AudioModulation.uplugin, 713 bytes
+Read ../../../Engine/Plugins/Runtime/AssetTags/AssetTags.uplugin, 619 bytes
+Read ../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin, 590 bytes
+Read ../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin, 676 bytes
+Read ../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin, 554 bytes
+Read ../../../Engine/Plugins/Runtime/Firebase/Firebase.uplugin, 550 bytes
+Read ../../../Engine/Plugins/Runtime/EditableMesh/EditableMesh.uplugin, 572 bytes
+Read ../../../Engine/Plugins/Runtime/DataRegistry/DataRegistry.uplugin, 911 bytes
+Read ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin, 672 bytes
+Read ../../../Engine/Plugins/Runtime/GooglePAD/GooglePAD.uplugin, 781 bytes
+Read ../../../Engine/Plugins/Runtime/AudioSynesthesia/AudioSynesthesia.uplugin, 839 bytes
+Read ../../../Engine/Plugins/Runtime/HairStrands/HairStrands.uplugin, 768 bytes
+Read ../../../Engine/Plugins/Runtime/GeoReferencing/GeoReferencing.uplugin, 885 bytes
+Read ../../../Engine/Plugins/Runtime/ChunkDownloader/ChunkDownloader.uplugin, 480 bytes
+Read ../../../Engine/Plugins/Tests/EditorTests/EditorTests.uplugin, 496 bytes
+Read ../../../Engine/Plugins/Runtime/GoogleCloudMessaging/GoogleCloudMessaging.uplugin, 572 bytes
+Read ../../../Engine/Plugins/Tests/PythonAutomationTest/PythonAutomationTest.uplugin, 669 bytes
+Read ../../../Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin, 507 bytes
+Read ../../../Engine/Plugins/Runtime/GameplayAbilities/GameplayAbilities.uplugin, 886 bytes
+Read ../../../Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin, 522 bytes
+Read ../../../Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin, 522 bytes
+Read ../../../Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin, 504 bytes
+Read ../../../Engine/Plugins/Runtime/HDRIBackdrop/HDRIBackdrop.uplugin, 506 bytes
+Read ../../../Engine/Plugins/Runtime/HTTPChunkInstaller/HTTPChunkInstaller.uplugin, 634 bytes
+Read ../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin, 768 bytes
+Read ../../../Engine/Plugins/Tests/RHITests/RHITests.uplugin, 500 bytes
+Read ../../../Engine/Plugins/Slate/SlateInsights/SlateInsights.uplugin, 660 bytes
+Read ../../../Engine/Plugins/Runtime/LiveLinkOvernDisplay/LiveLinkOverNDisplay.uplugin, 786 bytes
+Read ../../../Engine/Plugins/Runtime/IOSReplayKit/IOSReplayKit.uplugin, 467 bytes
+Read ../../../Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin, 691 bytes
+Read ../../../Engine/Plugins/Runtime/HPMotionController/HPMotionController.uplugin, 875 bytes
+Read ../../../Engine/Plugins/Runtime/LocationServicesIOSImpl/LocationServicesIOSImpl.uplugin, 840 bytes
+Read ../../../Engine/Plugins/Runtime/NetworkPrediction/NetworkPrediction.uplugin, 590 bytes
+Read ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/LocationServicesBPLibrary.uplugin, 583 bytes
+Read ../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin, 724 bytes
+Read ../../../Engine/Plugins/Runtime/LocationServicesAndroidImpl/LocationServicesAndroidImpl.uplugin, 924 bytes
+Read ../../../Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin, 626 bytes
+Read ../../../Engine/Plugins/Runtime/MicrosoftSpatialAudio/MicroSoftSpatialSound.uplugin, 665 bytes
+Read ../../../Engine/Plugins/Runtime/nDisplay/nDisplay.uplugin, 2707 bytes
+Read ../../../Engine/Plugins/Runtime/NetworkPredictionInsights/NetworkPredictionInsights.uplugin, 697 bytes
+Read ../../../Engine/Plugins/VirtualProduction/CameraCalibration/CameraCalibration.uplugin, 1058 bytes
+Read ../../../Engine/Plugins/Runtime/MixedRealityCaptureFramework/MixedRealityCaptureFramework.uplugin, 838 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXREyeTracker/OpenXREyeTracker.uplugin, 977 bytes
+Read ../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/CameraCalibrationCore.uplugin, 767 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXRHandTracking/OpenXRHandTracking.uplugin, 1031 bytes
+Read ../../../Engine/Plugins/Runtime/OptionalMobileFeaturesBPLibrary/OptionalMobileFeaturesBPLibrary.uplugin, 687 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXRMsftHandInteraction/OpenXRMsftHandInteraction.uplugin, 1043 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/OpenXR.uplugin, 1326 bytes
+Read ../../../Engine/Plugins/Runtime/OSCModulationMixing/OSCModulationMixing.uplugin, 784 bytes
+Read ../../../Engine/Plugins/Runtime/OSC/OSC.uplugin, 663 bytes
+Read ../../../Engine/Plugins/Runtime/PhysXVehicles/PhysXVehicles.uplugin, 662 bytes
+Read ../../../Engine/Plugins/VirtualProduction/DataCharts/DataCharts.uplugin, 636 bytes
+Read ../../../Engine/Plugins/Runtime/NetworkPredictionExtras/NetworkPredictionExtras.uplugin, 892 bytes
+Read ../../../Engine/Plugins/VirtualProduction/LiveLinkCamera/LiveLinkCamera.uplugin, 930 bytes
+Read ../../../Engine/Plugins/VirtualProduction/LiveLinkFreeD/LiveLinkFreeD.uplugin, 663 bytes
+Read ../../../Engine/Plugins/VirtualProduction/LevelSnapshots/LevelSnapshots.uplugin, 715 bytes
+Read ../../../Engine/Plugins/VirtualProduction/CompositePlane/CompositePlane.uplugin, 587 bytes
+Read ../../../Engine/Plugins/VirtualProduction/LiveLinkLens/LiveLinkLens.uplugin, 717 bytes
+Read ../../../Engine/Plugins/VirtualProduction/LiveLinkPrestonMDR/LiveLinkPrestonMDR.uplugin, 646 bytes
+Read ../../../Engine/Plugins/VirtualProduction/LiveLinkMasterLockit/LiveLinkMasterLockit.uplugin, 662 bytes
+Read ../../../Engine/Plugins/VirtualProduction/MultiUserTakes/MultiUserTakes.uplugin, 826 bytes
+Read ../../../Engine/Plugins/VirtualProduction/LiveLinkVRPN/LiveLinkVRPN.uplugin, 708 bytes
+Read ../../../Engine/Plugins/VirtualProduction/nDisplaySupportForLevelSnapshots/nDisplaySupportForLevelSnapshots.uplugin, 800 bytes
+Read ../../../Engine/Plugins/VirtualProduction/RemoteControlInterception/RemoteControlInterception.uplugin, 577 bytes
+Read ../../../Engine/Plugins/VirtualProduction/RemoteControl/RemoteControl.uplugin, 1508 bytes
+Read ../../../Engine/Plugins/VirtualProduction/RemoteControlProtocolDMX/RemoteControlProtocolDMX.uplugin, 915 bytes
+Read ../../../Engine/Plugins/VirtualProduction/RemoteControlProtocolMIDI/RemoteControlProtocolMIDI.uplugin, 948 bytes
+Read ../../../Engine/Plugins/VirtualProduction/ICVFX/ICVFX.uplugin, 1997 bytes
+Read ../../../Engine/Plugins/VirtualProduction/RemoteControlProtocolOSC/RemoteControlProtocolOSC.uplugin, 680 bytes
+Read ../../../Engine/Plugins/VirtualProduction/Takes/Takes.uplugin, 1195 bytes
+Read ../../../Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin, 692 bytes
+Read ../../../Engine/Plugins/VirtualProduction/Switchboard/Switchboard.uplugin, 825 bytes
+Read ../../../Engine/Plugins/Runtime/PostSplashScreen/PostSplashScreen.uplugin, 740 bytes
+Read ../../../Engine/Plugins/VirtualProduction/StageMonitoring/StageMonitoring.uplugin, 993 bytes
+Read ../../../Engine/Plugins/VirtualProduction/LiveLinkXR/LiveLinkXR.uplugin, 663 bytes
+Read ../../../Engine/Plugins/VirtualProduction/RemoteControlWebInterface/RemoteControlWebInterface.uplugin, 873 bytes
+Read ../../../Engine/Plugins/Runtime/ResonanceAudio/ResonanceAudio.uplugin, 1216 bytes
+Read ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/RuntimePhysXCooking.uplugin, 608 bytes
+Read ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin, 800 bytes
+Read ../../../Engine/Plugins/Runtime/PreLoadScreenMoviePlayer/PreLoadScreenMoviePlayer.uplugin, 792 bytes
+Read ../../../Engine/Plugins/Runtime/SignificanceManager/SignificanceManager.uplugin, 701 bytes
+Read ../../../Engine/Plugins/Runtime/SoundCueTemplates/SoundCueTemplates.uplugin, 685 bytes
+Read ../../../Engine/Plugins/Runtime/PropertyAccess/PropertyAccessEditor.uplugin, 676 bytes
+Read ../../../Engine/Plugins/Runtime/ReplicationGraph/ReplicationGraph.uplugin, 730 bytes
+Read ../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin, 642 bytes
+Read ../../../Engine/Plugins/Runtime/SoundUtilities/SoundUtilities.uplugin, 692 bytes
+Read ../../../Engine/Plugins/Runtime/Spatialization/Spatialization.uplugin, 635 bytes
+Read ../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin, 845 bytes
+Read ../../../Engine/Plugins/Cameras/CameraShakePreviewer/CameraShakePreviewer.uplugin, 742 bytes
+Read ../../../Engine/Plugins/Runtime/SoundFields/SoundFields.uplugin, 547 bytes
+Read ../../../Engine/Plugins/VirtualProduction/TimedDataMonitor/TimedDataMonitor.uplugin, 683 bytes
+Read ../../../Engine/Plugins/Runtime/TextureShare/TextureShare.uplugin, 1037 bytes
+Read ../../../Engine/Plugins/Runtime/TimeSynth/TimeSynth.uplugin, 674 bytes
+Read ../../../Engine/Plugins/Runtime/WebBrowserNativeProxy/WebBrowserNativeProxy.uplugin, 682 bytes
+Read ../../../Engine/Plugins/Runtime/WarpUtils/WarpUtils.uplugin, 671 bytes
+Read ../../../Engine/Plugins/Runtime/SunPosition/SunPosition.uplugin, 582 bytes
+Read ../../../Engine/Plugins/Developer/Concert/ConcertMain/ConcertMain.uplugin, 988 bytes
+Read ../../../Engine/Plugins/Runtime/WebMMoviePlayer/WebMMoviePlayer.uplugin, 768 bytes
+Read ../../../Engine/Plugins/Runtime/Synthesis/Synthesis.uplugin, 774 bytes
+Read ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin, 679 bytes
+Read ../../../Engine/Plugins/Runtime/WindowsMixedReality/WindowsMixedReality.uplugin, 2281 bytes
+Read ../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin, 706 bytes
+Read ../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin, 749 bytes
+Read ../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserClassDataSource/ContentBrowserClassDataSource.uplugin, 628 bytes
+Read ../../../Engine/Plugins/Developer/Concert/DisasterRecoveryClient/DisasterRecoveryClient.uplugin, 677 bytes
+Read ../../../Engine/Plugins/Developer/Concert/MultiUserClient/MultiUserClient.uplugin, 816 bytes
+Read ../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserAssetDataSource/ContentBrowserAssetDataSource.uplugin, 628 bytes
+Read ../../../Engine/Plugins/Experimental/Enterprise/DatasmithRuntime/DatasmithRuntime.uplugin, 729 bytes
+Read ../../../Engine/Plugins/Experimental/AR/PointCloud/PointCloud.uplugin, 619 bytes
+Read ../../../Engine/Plugins/Experimental/Enterprise/DataprepGeometryOperations/DataprepGeometryOperations.uplugin, 995 bytes
+Read ../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserFileDataSource/ContentBrowserFileDataSource.uplugin, 636 bytes
+Read ../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin, 804 bytes
+Read ../../../Engine/Plugins/Online/VoiceChat/EOSVoiceChat/EOSVoiceChat.uplugin, 572 bytes
+Read ../../../Engine/Plugins/Online/VoiceChat/VivoxVoiceChat/VivoxVoiceChat.uplugin, 497 bytes
+Read ../../../Engine/Plugins/Experimental/VirtualProduction/LedWallCalibration/LedWallCalibration.uplugin, 987 bytes
+Read ../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin, 610 bytes
+Read ../../../Engine/Plugins/Runtime/Analytics/Adjust/Adjust.uplugin, 929 bytes
+Read ../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin, 688 bytes
+Read ../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin, 853 bytes
+Read ../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin, 609 bytes
+Read ../../../Engine/Plugins/Online/VoiceChat/VoiceChat/VoiceChat.uplugin, 387 bytes
+Read ../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin, 825 bytes
+Read ../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchors/AzureSpatialAnchors.uplugin, 808 bytes
+Read ../../../Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin, 775 bytes
+Read ../../../Engine/Plugins/Runtime/AR/ARUtilities/ARUtilities.uplugin, 624 bytes
+Read ../../../Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin, 1034 bytes
+Read ../../../Engine/Plugins/Runtime/Database/DatabaseSupport/DatabaseSupport.uplugin, 550 bytes
+Read ../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchorsForARKit/AzureSpatialAnchorsForARKit.uplugin, 991 bytes
+Read ../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchorsForWMR/AzureSpatialAnchorsForWMR.uplugin, 1026 bytes
+Read ../../../Engine/Plugins/Runtime/AR/AzureSpatialAnchorsForARCore/AzureSpatialAnchorsForARCore.uplugin, 952 bytes
+Read ../../../Engine/Plugins/Runtime/Database/SQLiteSupport/SQLiteSupport.uplugin, 664 bytes
+Read ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin, 880 bytes
+Read ../../../Engine/Plugins/Runtime/Database/SQLiteCore/SQLiteCore.uplugin, 583 bytes
+Read ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRTransition2D/GoogleVRTransition2D.uplugin, 579 bytes
+Read ../../../Engine/Plugins/Runtime/Database/RemoteDatabaseSupport/RemoteDatabaseSupport.uplugin, 624 bytes
+Read ../../../Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin, 656 bytes
+Read ../../../Engine/Plugins/Runtime/Database/ADOSupport/ADOSupport.uplugin, 683 bytes
+Read ../../../Engine/Plugins/Runtime/MeshReconstruction/DummyMeshReconstructor/DummyMeshReconstructor.uplugin, 736 bytes
+Read ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin, 741 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/OculusVR.uplugin, 1402 bytes
+Read ../../../Engine/Plugins/Runtime/Nvidia/Reflex/Reflex.uplugin, 439 bytes
+Read ../../../Engine/Plugins/Runtime/PacketHandlers/AESGCMHandlerComponent/AESGCMHandlerComponent.uplugin, 998 bytes
+Read ../../../Engine/Plugins/Runtime/PacketHandlers/DTLSHandlerComponent/DTLSHandlerComponent.uplugin, 724 bytes
+Read ../../../Engine/Plugins/VirtualProduction/DMX/DMXDisplayCluster/DMXDisplayCluster.uplugin, 838 bytes
+Read ../../../Engine/Plugins/VirtualProduction/DMX/DMXEngine/DMXEngine.uplugin, 864 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusAudio/OculusAudio.uplugin, 885 bytes
+Read ../../../Engine/Plugins/Runtime/PacketHandlers/AESHandlerComponent/AESHandlerComponent.uplugin, 990 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusOpenXR/OculusOpenXR.uplugin, 984 bytes
+Read ../../../Engine/Plugins/VirtualProduction/DMX/DMXFixtures/DMXFixtures.uplugin, 705 bytes
+Read ../../../Engine/Plugins/Runtime/Steam/SteamShared/SteamShared.uplugin, 595 bytes
+Read ../../../Engine/Plugins/Runtime/Steam/SteamSockets/SteamSockets.uplugin, 976 bytes
+Read ../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin, 726 bytes
+Read ../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin, 1265 bytes
+Read ../../../Engine/Plugins/Runtime/Windows/WinDualShock/WinDualShock.uplugin, 750 bytes
+Read ../../../Engine/Plugins/Runtime/Steam/SteamAudio/SteamAudio.uplugin, 860 bytes
+Read ../../../Engine/Plugins/VirtualProduction/DMX/DMXProtocol/DMXProtocol.uplugin, 895 bytes
+Read ../../../Engine/Plugins/VirtualProduction/DMX/DMXPixelMapping/DMXPixelMapping.uplugin, 1325 bytes
+Read ../../../Engine/Plugins/Runtime/XR/XRVisualization/XRVisualization.uplugin, 638 bytes
+Read ../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncCore/ConcertSyncCore.uplugin, 929 bytes
+Read ../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/ConcertSyncClient.uplugin, 864 bytes
+Read ../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKitFaceSupport/AppleARKitFaceSupport.uplugin, 975 bytes
+Read ../../../Engine/Plugins/Runtime/AR/Google/GoogleARCore/GoogleARCore.uplugin, 1172 bytes
+Read ../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/AppleARKit.uplugin, 1068 bytes
+Read ../../../Engine/Plugins/Runtime/AR/Microsoft/HoloLensAR/HoloLensAR.uplugin, 866 bytes
+Read ../../../Engine/Plugins/Runtime/AR/Google/GoogleARCoreServices/GoogleARCoreServices.uplugin, 679 bytes
+Read ../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncTest/ConcertSyncTest.uplugin, 777 bytes
+Read ../../../Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncServer/ConcertSyncServer.uplugin, 933 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/cnvalias.icu, 63982 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/res_index.res, 7388 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/plurals.res, 33168 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/lang/en.res, 25576 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/lang/pool.res, 121484 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/lang/root.res, 196 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/region/en.res, 1512 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/region/pool.res, 81944 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/region/root.res, 76 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/windowsZones.res, 22592 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/zoneinfo64.res, 155796 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/keyTypeData.res, 6876 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/timezoneTypes.res, 20100 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/likelySubtags.res, 53300 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/en_US.res, 76 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/pool.res, 134976 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/en.res, 12340 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/root.res, 38980 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/supplementalData.res, 232936 bytes
+Read ../../../Engine/Config/BaseGame.ini, 9112 bytes
+Read C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Config/DefaultGame.ini, 205 bytes
+Read ../../../Engine/Config/Windows/WindowsGame.ini, 89 bytes
+Read ../../../Engine/Config/BaseInput.ini, 23367 bytes
+Read ../../../Engine/Config/BaseCompat.ini, 16732 bytes
+Read ../../../Engine/Config/BaseLightmass.ini, 11059 bytes
+Read ../../../Engine/Config/BaseScalability.ini, 21017 bytes
+Read ../../../Engine/Config/BaseHardware.ini, 4870 bytes
+Read ../../../Engine/Config/BaseRuntimeOptions.ini, 99 bytes
+Read ../../../Engine/Config/BaseInstallBundle.ini, 37 bytes
+Read ../../../Engine/Config/BaseDeviceProfiles.ini, 37530 bytes
+Read ../../../Engine/Config/BaseGameUserSettings.ini, 61 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Config/BasePaper2D.ini, 751 bytes
+Read ../../../Engine/Plugins/Animation/LiveLink/Config/BaseLiveLink.ini, 2488 bytes
+Read ../../../Engine/Plugins/FX/Niagara/Config/BaseNiagara.ini, 20107 bytes
+Read ../../../Engine/Plugins/Enterprise/VariantManagerContent/Config/BaseVariantManagerContent.ini, 160 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeap/Config/BaseMagicLeap.ini, 9233 bytes
+Read ../../../Engine/Plugins/Experimental/MotoSynth/Config/BaseMotoSynth.ini, 468 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/Config/BaseMagicLeapLightEstimation.ini, 718 bytes
+Read ../../../Engine/Plugins/Runtime/PhysXVehicles/Config/BasePhysXVehicles.ini, 1471 bytes
+Read ../../../Engine/Plugins/Runtime/Synthesis/Config/BaseSynthesis.ini, 1245 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Config/BaseOculusVR.ini, 405 bytes
+Read ../../../Engine/Content/Certificates/ThirdParty/cacert.pem, 211303 bytes
+Read ../../../Engine/Config/ConsoleVariables.ini, 5163 bytes
+Read ../../../Engine/Content/Localization/Engine/en/Engine.locres, 1607383 bytes
+Read ../../../Engine/Content/Localization/Engine/es/Engine.locres, 180289 bytes
+Read ../../../Engine/Content/Localization/Engine/ja/Engine.locres, 1667487 bytes
+Read ../../../Engine/Content/Localization/Engine/ko/Engine.locres, 1621386 bytes
+Read ../../../Engine/Content/Localization/Engine/pt-BR/Engine.locres, 179933 bytes
+Read ../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres, 1418663 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ar/OnlineSubsystem.locres, 346 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/de/OnlineSubsystem.locres, 281 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en/OnlineSubsystem.locres, 1162 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es/OnlineSubsystem.locres, 296 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es-419/OnlineSubsystem.locres, 288 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es-MX/OnlineSubsystem.locres, 393 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/fr/OnlineSubsystem.locres, 287 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/it/OnlineSubsystem.locres, 280 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ja/OnlineSubsystem.locres, 292 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ko/OnlineSubsystem.locres, 282 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pl/OnlineSubsystem.locres, 276 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt-BR/OnlineSubsystem.locres, 287 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ru/OnlineSubsystem.locres, 318 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans/OnlineSubsystem.locres, 276 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ar/OnlineSubsystemUtils.locres, 1951 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/de/OnlineSubsystemUtils.locres, 1617 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en/OnlineSubsystemUtils.locres, 1391 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es/OnlineSubsystemUtils.locres, 1701 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-419/OnlineSubsystemUtils.locres, 1800 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/fr/OnlineSubsystemUtils.locres, 2164 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/it/OnlineSubsystemUtils.locres, 1669 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ja/OnlineSubsystemUtils.locres, 1469 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ko/OnlineSubsystemUtils.locres, 1489 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pl/OnlineSubsystemUtils.locres, 2067 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt-BR/OnlineSubsystemUtils.locres, 1604 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ru/OnlineSubsystemUtils.locres, 2171 bytes
+Read ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans/OnlineSubsystemUtils.locres, 1303 bytes
+Read ../../../Engine/Content/Splash/Splash.bmp, 360056 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/numberingSystems.res, 5660 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/curr/supplementalData.res, 26920 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/curr/en.res, 30952 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/curr/pool.res, 188604 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/curr/root.res, 852 bytes
+Read ../../../Engine/Content/Slate/Checkerboard.png, 2819 bytes
+Read ../../../Engine/GlobalShaderCache-PCD3D_SM5.bin, 6329064 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/brkitr/en_US.res, 100 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/brkitr/en.res, 1800 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/brkitr/root.res, 660 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/brkitr/char.brk, 23072 bytes
+Read ../../../Engine/Content/Slate/Icons/TrashCan.png, 5568 bytes
+Read ../../../Engine/Content/Slate/Icons/cursor_cardinal_cross.png, 400 bytes
+Read ../../../Engine/Content/Slate/Icons/DefaultAppIcon.png, 373 bytes
+Read ../../../Engine/Content/Slate/Icons/cursor_grab.png, 2888 bytes
+Read ../../../Engine/Content/Slate/Common/TextBlockHighlightShape_Empty.png, 2843 bytes
+Read ../../../Engine/Content/Slate/Common/BoxShadow.png, 3679 bytes
+Read ../../../Engine/Content/Slate/Old/DashedBorder.png, 2935 bytes
+Read ../../../Engine/Content/Slate/Common/TextBlockHighlightShape.png, 2827 bytes
+Read ../../../Engine/Content/Slate/Icons/Cross_12x.png, 2895 bytes
+Read ../../../Engine/Content/Slate/Old/White.png, 2791 bytes
+Read ../../../Engine/Content/Slate/Common/CursorPing.png, 18245 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_help_16x.png, 435 bytes
+Read ../../../Engine/Content/Slate/Icons/denied_16x.png, 3024 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_Downloads_16x.png, 3012 bytes
+Read ../../../Engine/Content/Slate/Icons/TrashCan_Small.png, 3447 bytes
+Read ../../../Engine/Content/Slate/Common/GroupBorder.png, 2876 bytes
+Read ../../../Engine/Content/Slate/Common/DebugBorder.png, 2840 bytes
+Read ../../../Engine/Content/Slate/Old/Menu_Background.png, 2901 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_info_16x.png, 719 bytes
+Read ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Copy_16x.png, 35538 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_error_16x.png, 1368 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_undo_16px.png, 3009 bytes
+Read ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Delete_16x.png, 35572 bytes
+Read ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Paste_16x.png, 35278 bytes
+Read ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Cut_16x.png, 35495 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_redo_16px.png, 3007 bytes
+Read ../../../Engine/Content/Slate/Common/Check.png, 2930 bytes
+Read ../../../Engine/Content/Slate/Common/VerticalBoxDragIndicatorShort.png, 3164 bytes
+Read ../../../Engine/Content/Slate/Icons/PlusSymbol_12x.png, 2854 bytes
+Read ../../../Engine/Content/Slate/Icons/ellipsis_12x.png, 2835 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_warning_16x.png, 733 bytes
+Read ../../../Engine/Content/Slate/Common/Throbber_Piece.png, 2928 bytes
+Read ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Rename_16x.png, 39544 bytes
+Read ../../../Engine/Content/Slate/Common/VerticalBoxDragIndicator.png, 237 bytes
+Read ../../../Engine/Content/Slate/Old/ToolTip_BrightBackground.png, 1112 bytes
+Read ../../../Engine/Content/Slate/Old/Border.png, 2853 bytes
+Read ../../../Engine/Content/Slate/Common/TextBoxLabelBorder.png, 2871 bytes
+Read ../../../Engine/Content/Slate/Common/Checker.png, 2819 bytes
+Read ../../../Engine/Content/Slate/Common/EditableTextSelectionBackground.png, 2826 bytes
+Read ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Duplicate_16x.png, 3683 bytes
+Read ../../../Engine/Content/Slate/Common/ColorPicker_Mode_16x.png, 943 bytes
+Read ../../../Engine/Content/Slate/Old/ToolTip_Background.png, 2963 bytes
+Read ../../../Engine/Content/Slate/Icons/eyedropper_16px.png, 2870 bytes
+Read ../../../Engine/Content/Slate/Common/X.png, 2945 bytes
+Read ../../../Engine/Content/Slate/Common/ColorPicker_Separator.png, 159 bytes
+Read ../../../Engine/Content/Slate/Common/ColorGradingWheel.png, 35226 bytes
+Read ../../../Engine/Content/Slate/Common/TreeArrow_Collapsed.png, 2838 bytes
+Read ../../../Engine/Content/Slate/Old/HyperlinkDotted.png, 2812 bytes
+Read ../../../Engine/Content/Slate/Common/ColorWheel.png, 71817 bytes
+Read ../../../Engine/Content/Slate/Common/Circle.png, 2843 bytes
+Read ../../../Engine/Content/Slate/Common/ColorSpectrum.png, 266833 bytes
+Read ../../../Engine/Content/Slate/Common/TreeArrow_Collapsed_Hovered.png, 2833 bytes
+Read ../../../Engine/Content/Slate/Icons/toolbar_expand_16x.png, 2885 bytes
+Read ../../../Engine/Content/Slate/Common/SubmenuArrow.png, 2833 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_generic_toolbar.png, 6172 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_tab_toolbar_16px.png, 3329 bytes
+Read ../../../Engine/Content/Slate/Old/Button.png, 3007 bytes
+Read ../../../Engine/Content/Slate/Common/TreeArrow_Expanded_Hovered.png, 2837 bytes
+Read ../../../Engine/Content/Slate/Common/RoundedSelection_16x.png, 2845 bytes
+Read ../../../Engine/Content/Slate/Common/TreeArrow_Expanded.png, 2830 bytes
+Read ../../../Engine/Content/Slate/Common/Selection.png, 2802 bytes
+Read ../../../Engine/Content/Slate/Common/Button.png, 2999 bytes
+Read ../../../Engine/Content/Slate/Icons/notificationlist_success.png, 3190 bytes
+Read ../../../Engine/Content/Slate/Common/Delimiter.png, 2871 bytes
+Read ../../../Engine/Content/Slate/Old/Menu_Background_Inverted_Border_Bold.png, 350 bytes
+Read ../../../Engine/Content/Slate/Old/Notification_Border_Flash.png, 15017 bytes
+Read ../../../Engine/Content/Slate/Common/ExpansionButton_CloseOverlay.png, 468 bytes
+Read ../../../Engine/Content/Slate/Icons/notificationlist_fail.png, 274 bytes
+Read ../../../Engine/Content/Slate/Common/EventMessage_Default.png, 3161 bytes
+Read ../../../Engine/Content/Slate/Common/Separator.png, 2812 bytes
+Read ../../../Engine/Content/Slate/Tutorials/TutorialShadow.png, 3382 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_tab_WidgetReflector_16x.png, 3439 bytes
+Read ../../../Engine/Content/Slate/MessageLog/Log_Error.png, 3235 bytes
+Read ../../../Engine/Content/Slate/Docking/OuterDockingIndicator.png, 15593 bytes
+Read ../../../Engine/Content/Slate/Docking/DockingIndicator_Center.png, 3805 bytes
+Read ../../../Engine/Content/Slate/Icons/BackIcon.png, 3066 bytes
+Read ../../../Engine/Content/Slate/Icons/NextIcon.png, 3061 bytes
+Read ../../../Engine/Content/Slate/Common/Scrollbar_Background_Vertical.png, 2775 bytes
+Read ../../../Engine/Content/Slate/MessageLog/Log_Note.png, 2900 bytes
+Read ../../../Engine/Content/Slate/Icons/icon_tab_WidgetReflector_40x.png, 5660 bytes
+Read ../../../Engine/Content/Slate/Common/Button_Hovered.png, 3352 bytes
+Read ../../../Engine/Content/Slate/Common/Button_Pressed.png, 2995 bytes
+Read ../../../Engine/Content/Slate/MessageLog/Log_Warning.png, 2964 bytes
+Read ../../../Engine/Content/Slate/Common/Scrollbar_Thumb.png, 2868 bytes
+Read ../../../Engine/Content/Slate/Common/CheckBox_Hovered.png, 2863 bytes
+Read ../../../Engine/Content/Slate/Common/ComboArrow.png, 2824 bytes
+Read ../../../Engine/Content/Slate/Common/Scrollbar_Background_Horizontal.png, 2784 bytes
+Read ../../../Engine/Content/Slate/Common/CheckBox.png, 2871 bytes
+Read ../../../Engine/Content/Slate/Common/CheckBox_Undetermined_Hovered.png, 2895 bytes
+Read ../../../Engine/Content/Slate/Tutorials/TutorialBorder.png, 3785 bytes
+Read ../../../Engine/Content/Slate/Common/RadioButton_Unselected_16x.png, 16867 bytes
+Read ../../../Engine/Content/Slate/Common/CheckBox_Undetermined.png, 2890 bytes
+Read ../../../Engine/Content/Slate/Common/TextBox.png, 2874 bytes
+Read ../../../Engine/Content/Slate/Common/CheckBox_Checked_Hovered.png, 2994 bytes
+Read ../../../Engine/Content/Slate/Common/CheckBox_Checked.png, 2993 bytes
+Read ../../../Engine/Content/Slate/Common/RadioButton_Selected_16x.png, 3131 bytes
+Read ../../../Engine/Content/Slate/Common/Selector.png, 2815 bytes
+Read ../../../Engine/Content/Slate/Common/TextBox_Hovered_Dark.png, 2909 bytes
+Read ../../../Engine/Content/Slate/Common/TextBox_ReadOnly.png, 2851 bytes
+Read ../../../Engine/Content/Slate/Common/ProgressBar_Fill.png, 2920 bytes
+Read ../../../Engine/Content/Slate/Common/TextBox_Hovered.png, 2877 bytes
+Read ../../../Engine/Content/Slate/Old/HyperlinkUnderline.png, 2814 bytes
+Read ../../../Engine/Content/Slate/Common/TextBox_Special.png, 2898 bytes
+Read ../../../Engine/Content/Slate/Common/TextBox_Special_Hovered.png, 2975 bytes
+Read ../../../Engine/Content/Slate/Common/DownArrow.png, 2824 bytes
+Read ../../../Engine/Content/Slate/Common/SearchGlass.png, 3033 bytes
+Read ../../../Engine/Content/Slate/Common/Button_Disabled.png, 3034 bytes
+Read ../../../Engine/Content/Slate/Common/VolumeControl_High.png, 3037 bytes
+Read ../../../Engine/Content/Slate/Common/VolumeControl_Mid.png, 3011 bytes
+Read ../../../Engine/Content/Slate/Common/ProgressBar_Background.png, 2992 bytes
+Read ../../../Engine/Content/Slate/Common/VolumeControl_Low.png, 2985 bytes
+Read ../../../Engine/Content/Slate/Common/VolumeControl_Muted.png, 3098 bytes
+Read ../../../Engine/Content/Slate/Common/Spinbox_Fill.png, 3019 bytes
+Read ../../../Engine/Content/Slate/Common/UpArrow.png, 2827 bytes
+Read ../../../Engine/Content/Slate/Common/TextBox_Dark.png, 2886 bytes
+Read ../../../Engine/Content/Slate/Common/Spinbox_Hovered.png, 2944 bytes
+Read ../../../Engine/Content/Slate/Common/Spinbox_Fill_Hovered.png, 3054 bytes
+Read ../../../Engine/Content/Slate/Common/SpinArrows.png, 2886 bytes
+Read ../../../Engine/Content/Slate/Common/Spinbox_Fill_Hovered_Dark.png, 3171 bytes
+Read ../../../Engine/Content/Slate/Common/VolumeControl_Off.png, 2933 bytes
+Read ../../../Engine/Content/Slate/Common/ColorPicker_SliderHandle.png, 182 bytes
+Read ../../../Engine/Content/Slate/Common/ProgressBar_Marquee.png, 3032 bytes
+Read ../../../Engine/Content/Slate/Common/Spinbox_Fill_Dark.png, 3172 bytes
+Read ../../../Engine/Content/Slate/Common/DropZoneIndicator_Onto.png, 15599 bytes
+Read ../../../Engine/Content/Slate/Common/DropZoneIndicator_Below.png, 15470 bytes
+Read ../../../Engine/Content/Slate/Common/SortUpArrow.png, 2808 bytes
+Read ../../../Engine/Content/Slate/Common/SortUpArrows.png, 1220 bytes
+Read ../../../Engine/Content/Slate/Common/SortDownArrows.png, 1217 bytes
+Read ../../../Engine/Content/Slate/Common/SplitterHandleHighlight.png, 2802 bytes
+Read ../../../Engine/Content/Slate/Common/SortDownArrow.png, 2811 bytes
+Read ../../../Engine/Content/Slate/Common/Spinbox.png, 2873 bytes
+Read ../../../Engine/Content/Slate/Common/ColumnHeader.png, 2837 bytes
+Read ../../../Engine/Content/Slate/Common/DropZoneIndicator_Above.png, 15666 bytes
+Read ../../../Engine/Content/Slate/Common/ColumnHeaderMenuButton_Hovered.png, 7386 bytes
+Read ../../../Engine/Content/Slate/Common/ColumnHeader_Arrow.png, 191 bytes
+Read ../../../Engine/Content/Slate/Common/TableViewHeader.png, 3072 bytes
+Read ../../../Engine/Content/Slate/Common/ColumnHeader_Hovered.png, 3451 bytes
+Read ../../../Engine/Content/Slate/Common/LastColumnHeader_Hovered.png, 3453 bytes
+Read ../../../Engine/Content/Slate/Docking/CloseApp_Pressed.png, 3027 bytes
+Read ../../../Engine/Content/Slate/Common/SmallCheckBox.png, 2838 bytes
+Read ../../../Engine/Content/Slate/Common/SmallCheckBox_Checked_Hovered.png, 2948 bytes
+Read ../../../Engine/Content/Slate/Icons/Empty_14x.png, 2823 bytes
+Read ../../../Engine/Content/Slate/Common/SmallCheck.png, 2929 bytes
+Read ../../../Engine/Content/Slate/Common/ColumnHeaderMenuButton_Normal.png, 7386 bytes
+Read ../../../Engine/Content/Slate/Docking/CloseApp_Hovered.png, 3106 bytes
+Read ../../../Engine/Content/Slate/Common/HeaderSplitterGrip.png, 2815 bytes
+Read ../../../Engine/Content/Slate/Common/SmallCheckBox_Checked.png, 2975 bytes
+Read ../../../Engine/Content/Slate/Docking/CloseApp_Normal.png, 2906 bytes
+Read ../../../Engine/Content/Slate/Docking/Tab_Shape.png, 130 bytes
+Read ../../../Engine/Content/Slate/Docking/Tab_Active.png, 2866 bytes
+Read ../../../Engine/Content/Slate/Docking/ShowTabwellButton_Pressed.png, 2868 bytes
+Read ../../../Engine/Content/Slate/Common/SmallCheckBox_Hovered.png, 2836 bytes
+Read ../../../Engine/Content/Slate/Docking/AppTab_Inactive.png, 3390 bytes
+Read ../../../Engine/Content/Slate/Docking/AppTab_Hovered.png, 3401 bytes
+Read ../../../Engine/Content/Slate/Docking/AppTab_Active.png, 3549 bytes
+Read ../../../Engine/Content/Slate/Docking/Tab_ColorOverlay.png, 2961 bytes
+Read ../../../Engine/Content/Slate/Docking/AppTab_ColorOverlayIcon.png, 4030 bytes
+Read ../../../Engine/Content/Slate/Docking/ShowTabwellButton_Normal.png, 2829 bytes
+Read ../../../Engine/Content/Slate/Docking/AppTab_ColorOverlay.png, 3192 bytes
+Read ../../../Engine/Content/Slate/Docking/Tab_ColorOverlayIcon.png, 4030 bytes
+Read ../../../Engine/Content/Slate/Docking/AppTab_Foreground.png, 3549 bytes
+Read ../../../Engine/Content/Slate/Docking/ShowTabwellButton_Hovered.png, 2828 bytes
+Read ../../../Engine/Content/Slate/Common/ScrollBoxShadowRight.png, 2964 bytes
+Read ../../../Engine/Content/Slate/Common/ScrollBorderShadowTop.png, 2989 bytes
+Read ../../../Engine/Content/Slate/Common/ScrollBorderShadowBottom.png, 2983 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Maximize_Normal.png, 394 bytes
+Read ../../../Engine/Content/Slate/Common/ScrollBoxShadowLeft.png, 2960 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Minimize_Pressed.png, 355 bytes
+Read ../../../Engine/Content/Slate/Common/ScrollBoxShadowTop.png, 2989 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Minimize_Normal.png, 367 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Maximize_Hovered.png, 3144 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Restore_Normal.png, 480 bytes
+Read ../../../Engine/Content/Slate/Common/ScrollBoxShadowBottom.png, 2983 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Minimize_Hovered.png, 3113 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Maximize_Pressed.png, 389 bytes
+Read ../../../Engine/Content/Slate/Docking/AppTabContentArea.png, 2843 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Close_Hovered.png, 3757 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Restore_Pressed.png, 470 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Close_Normal.png, 786 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Restore_Hovered.png, 3246 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowTitle_Flashing.png, 2883 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowOutline.png, 2827 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowBackground.png, 3051 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowTitle_Inactive.png, 2823 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowBorder.png, 15445 bytes
+Read ../../../Engine/Content/Slate/Common/NoiseBackground.png, 5891 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowTitle.png, 2918 bytes
+Read ../../../Engine/Content/Slate/Common/Window/WindowButton_Close_Pressed.png, 765 bytes
+Read ../../../Engine/Content/Internationalization/icudt64l/brkitr/word.brk, 44896 bytes
+Requesting file from cooker ../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset
+Cooked packages 0 Packages Remain 1 Total 1
+Cook Diagnostics: OpenFileHandles=209, VirtualMemory=590MiB
+Read ../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset, 691 bytes
+Read ../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp, 1053 bytes
+Returning unsolicited file ../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp with 1137 bytes
+Requesting file from cooker ../../../Engine/Content/EngineResources/GradientTexture0.uasset
+Read ../../../Engine/Content/EngineResources/GradientTexture0.uasset, 893 bytes
+Read ../../../Engine/Content/EngineResources/GradientTexture0.uexp, 5968 bytes
+Returning unsolicited file ../../../Engine/Content/EngineResources/GradientTexture0.uexp with 6050 bytes
+Read ../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset, 2206 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset with 2297 bytes
+Read ../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp, 28464 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp with 28553 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset, 815 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset with 936 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp, 244 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp with 363 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset, 643 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset with 734 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp, 16 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp with 105 bytes
+Requesting file from cooker ../../../Engine/Content/EngineResources/Black.uasset
+Read ../../../Engine/Content/EngineResources/Black.uasset, 665 bytes
+Read ../../../Engine/Content/EngineResources/Black.uexp, 1053 bytes
+Returning unsolicited file ../../../Engine/Content/EngineResources/Black.uexp with 1124 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset, 1725 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset with 1815 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp, 21217 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp with 21305 bytes
+Read ../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset, 2017 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset with 2105 bytes
+Read ../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp, 21885 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp with 21971 bytes
+Read ../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset, 1311 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset with 1404 bytes
+Read ../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp, 59603 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp with 59694 bytes
+Read ../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset, 1681 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset with 1762 bytes
+Read ../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp, 11957 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp with 12036 bytes
+Requesting file from cooker ../../../Engine/Content/EngineMeshes/Sphere.uasset
+Read ../../../Engine/Content/EngineMeshes/Sphere.uasset, 1990 bytes
+Read ../../../Engine/Content/EngineMeshes/Sphere.uexp, 49615 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMeshes/Sphere.uexp with 49684 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset, 1424 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset with 1537 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp, 59304 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp with 59415 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset, 2628 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset with 2739 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp, 1162620 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp with 1162729 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset, 2708 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset with 2831 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp, 336557 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp with 336678 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset, 1220 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset with 1350 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp, 30077 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp with 30205 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset, 2710 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset with 2834 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp, 333521 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp with 333643 bytes
+Read ../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset, 1152 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset with 1241 bytes
+Read ../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp, 4203 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp with 4290 bytes
+Requesting file from cooker ../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset
+Read ../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset, 1707 bytes
+Read ../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp, 1338751 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp with 1338834 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset, 2386 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset with 2503 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp, 33220 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp with 33335 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset, 2708 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset with 2834 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp, 857477 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp with 857601 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset, 2403 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset with 2522 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp, 33585 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp with 33702 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset, 2714 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset with 2846 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp, 335453 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp with 335583 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset, 2391 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset with 2506 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp, 33220 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp with 33333 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset, 2717 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset with 2851 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp, 336771 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp with 336903 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset, 2714 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset with 2846 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp, 567783 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp with 567913 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset, 2391 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset with 2506 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp, 33220 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp with 33333 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset, 2717 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset with 2851 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp, 567957 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp with 568089 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset, 2890 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset with 3002 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp, 24449 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp with 24559 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset, 807 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset with 928 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp, 243 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp with 362 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset, 779 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset with 886 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp, 193 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp with 298 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset, 1755 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset with 1879 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp, 5017 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp with 5139 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset, 2481 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset with 2579 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp, 64998 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp with 65094 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset, 2626 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset with 2736 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp, 1150880 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp with 1150988 bytes
+Requesting file from cooker ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset
+Read ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset, 951 bytes
+Read ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp, 6125 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp with 6216 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset, 1978 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset with 2079 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp, 1156 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp with 1255 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset, 2747 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset with 2893 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp, 535007 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp with 535151 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset, 2714 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset with 2843 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp, 33744 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp with 33871 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset, 2750 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset with 2898 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp, 535060 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp with 535206 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset, 2687 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset with 2797 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp, 518433 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp with 518541 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset, 1982 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset with 2085 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp, 1156 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp with 1257 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset, 2704 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset with 2830 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp, 1100181 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp with 1100305 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset, 2376 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset with 2485 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp, 33220 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp with 33327 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset, 2688 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset with 2816 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp, 1112806 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp with 1112932 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset, 2701 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset with 2825 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp, 860091 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp with 860213 bytes
+Requesting file from cooker ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset
+Read ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset, 773 bytes
+Read ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp, 6080 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp with 6171 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset, 686 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset with 800 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp, 81 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp with 193 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset, 2374 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset with 2474 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp, 12311 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp with 12409 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset, 821 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset with 939 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp, 181 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp with 297 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset, 2701 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset with 2823 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp, 34386 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp with 34506 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset, 2391 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset with 2506 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp, 33121 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp with 33234 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset, 2138 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset with 2235 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp, 32670 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp with 32765 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset, 2657 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset with 2765 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp, 1804808 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp with 1804914 bytes
+Requesting file from cooker ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset
+Cooked packages 53 Packages Remain 155 Total 208
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset, 789 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp, 256 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp with 366 bytes
+Read ../../../Engine/Content/EngineMeshes/Cylinder.uasset, 2192 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMeshes/Cylinder.uasset with 2265 bytes
+Read ../../../Engine/Content/EngineMeshes/Cylinder.uexp, 20966 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMeshes/Cylinder.uexp with 21037 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset, 5235 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset with 5346 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp, 254326 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp with 254435 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset, 745 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset with 851 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp, 107 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp with 211 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset, 797 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset with 899 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp, 346 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp with 446 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset, 807 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset with 928 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp, 243 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp with 362 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset, 783 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset with 892 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp, 162 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp with 269 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset, 823 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset with 940 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp, 185 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp with 300 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset, 767 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset with 887 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp, 211 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp with 329 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset, 692 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset with 809 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp, 81 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp with 196 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset, 794 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset with 909 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp, 160 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp with 273 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset, 746 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset with 857 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp, 107 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp with 216 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset, 698 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset with 808 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp, 81 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp with 189 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset, 758 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset with 875 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp, 107 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp with 222 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset, 742 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset with 851 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp, 107 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp with 214 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset, 4617 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset with 4737 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp, 180050 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp with 180168 bytes
+Requesting file from cooker ../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset
+Read ../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset, 1775 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp, 196479 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp with 196573 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset, 1121 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset with 1219 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp, 351 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp with 447 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset, 1993 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset with 2075 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp, 1043 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp with 1123 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset, 14356 bytes
+Returning unsolicited file ../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset with 14468 bytes
+Read ../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp, 14261 bytes
+Returning unsolicited file ../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp with 14371 bytes
+Read ../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset, 1728 bytes
+Returning unsolicited file ../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset with 1837 bytes
+Read ../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp, 4991 bytes
+Returning unsolicited file ../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp with 5098 bytes
+Read ../../../Engine/Content/BasicShapes/Cylinder.uasset, 2656 bytes
+Returning unsolicited file ../../../Engine/Content/BasicShapes/Cylinder.uasset with 2728 bytes
+Read ../../../Engine/Content/BasicShapes/Cylinder.uexp, 66054 bytes
+Returning unsolicited file ../../../Engine/Content/BasicShapes/Cylinder.uexp with 66124 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset, 2100 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset with 2183 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp, 289292 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp with 289373 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset, 1595 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset with 1687 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp, 177827 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp with 177917 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset, 1699 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset with 1789 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp, 896278 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp with 896366 bytes
+Requesting file from cooker ../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset
+Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.059764 seconds
+Unsolicited file doesn't exist in sandbox, ignoring ../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset
+Unsolicited file doesn't exist in sandbox, ignoring ../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset
+Read ../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset, 717 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp, 3346 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp with 3426 bytes
+Read ../../../Engine/Content/EngineFonts/Roboto.uasset, 1887 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Roboto.uasset with 1957 bytes
+Read ../../../Engine/Content/EngineFonts/Roboto.uexp, 1135 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Roboto.uexp with 1203 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset, 675 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset with 762 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp, 115 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp with 200 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset, 661 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset with 741 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp, 108 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp with 186 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset, 673 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset with 759 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp, 114 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp with 198 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset, 665 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset with 747 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp, 110 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp with 190 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset, 753 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset with 834 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp, 150 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp with 229 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset, 667 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset with 750 bytes
+Read ../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp, 111 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp with 192 bytes
+Read ../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset, 697 bytes
+Returning unsolicited file ../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset with 783 bytes
+Read ../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp, 49 bytes
+Returning unsolicited file ../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp with 133 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset, 1352 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset with 1463 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp, 17597 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp with 17706 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset, 2737 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset with 2830 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp, 10526 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp with 10617 bytes
+Read ../../../Engine/Content/Tutorial/ContentIntroCurve.uasset, 723 bytes
+Returning unsolicited file ../../../Engine/Content/Tutorial/ContentIntroCurve.uasset with 801 bytes
+Read ../../../Engine/Content/Tutorial/ContentIntroCurve.uexp, 240 bytes
+Returning unsolicited file ../../../Engine/Content/Tutorial/ContentIntroCurve.uexp with 316 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset, 1775 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset with 1871 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp, 654 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp with 748 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset, 2029 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset with 2121 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp, 107829 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp with 107919 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset, 1795 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset with 1891 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp, 42317 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp with 42411 bytes
+Requesting file from cooker ../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset
+Read ../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset, 1290 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp, 44562 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp with 44656 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset, 1903 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset with 1997 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp, 32241 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp with 32333 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset, 1901 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset with 2004 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp, 32088 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp with 32189 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset, 2921 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset with 3019 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp, 15094 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp with 15190 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset, 1927 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset with 2025 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp, 5677 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp with 5773 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset, 1889 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset with 1998 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp, 20031 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp with 20138 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset, 2896 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset with 2989 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp, 17041 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp with 17132 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset, 2907 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset with 2998 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp, 7946 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp with 8035 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset, 2268 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset with 2356 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp, 102807 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp with 102893 bytes
+Read ../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset, 1382 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset with 1471 bytes
+Read ../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp, 479 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp with 566 bytes
+Read ../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset, 1621 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset with 1703 bytes
+Read ../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp, 58462 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp with 58542 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset, 2266 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset with 2353 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp, 3203 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp with 3288 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset, 2270 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset with 2359 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp, 20611 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp with 20698 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset, 2268 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset with 2356 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp, 94399 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp with 94485 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset, 2268 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset with 2356 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp, 132051 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp with 132137 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset, 2268 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset with 2356 bytes
+Read ../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp, 161835 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp with 161921 bytes
+Read ../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset, 2212 bytes
+Returning unsolicited file ../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset with 2310 bytes
+Read ../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp, 4405 bytes
+Returning unsolicited file ../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp with 4501 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset, 1755 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset with 1852 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp, 19154 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp with 19249 bytes
+Requesting file from cooker ../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset
+Read ../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset, 1920 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp, 10100 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp with 10192 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/Main.uasset, 1777 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/Main.uasset with 1857 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/Main.uexp, 20549 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/Main.uexp with 20627 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset, 1390 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset with 1470 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp, 30136 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp with 30214 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset, 1918 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset with 2017 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp, 22058 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp with 22155 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset, 2045 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset with 2132 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp, 21170 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp with 21255 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset, 1926 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset with 2034 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp, 19772 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp with 19878 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset, 1845 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset with 1939 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp, 12023 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp with 12115 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset, 1843 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset with 1946 bytes
+Read ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp, 5004 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp with 5105 bytes
+Requesting file from cooker ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset, 807 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp, 243 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp with 362 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset, 3107 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset with 3194 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp, 94862 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp with 94947 bytes
+Read ../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset, 1100 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset with 1193 bytes
+Read ../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp, 118 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp with 209 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset, 2720 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset with 2812 bytes
+Read ../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp, 65965 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp with 66055 bytes
+Requesting file from cooker ../../../Engine/Content/EngineResources/DefaultTexture.uasset
+Read ../../../Engine/Content/EngineResources/DefaultTexture.uasset, 683 bytes
+Read ../../../Engine/Content/EngineResources/DefaultTexture.uexp, 3173 bytes
+Returning unsolicited file ../../../Engine/Content/EngineResources/DefaultTexture.uexp with 3253 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset, 705 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset with 818 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp, 81 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp with 192 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset, 711 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset with 827 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp, 81 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp with 195 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset, 2220 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset with 2327 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp, 835 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp with 940 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset, 3137 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset with 3239 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp, 187778 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp with 187878 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset, 779 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset with 886 bytes
+Read ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp, 193 bytes
+Returning unsolicited file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp with 298 bytes
+Requesting file from cooker ../../../Engine/Content/EngineResources/DefaultTextureCube.uasset
+Read ../../../Engine/Content/EngineResources/DefaultTextureCube.uasset, 654 bytes
+Read ../../../Engine/Content/EngineResources/DefaultTextureCube.uexp, 65988 bytes
+Returning unsolicited file ../../../Engine/Content/EngineResources/DefaultTextureCube.uexp with 66072 bytes
+Read ../../../Engine/Content/EditorResources/S_Actor.uasset, 779 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Actor.uasset with 854 bytes
+Read ../../../Engine/Content/EditorResources/S_Actor.uexp, 22318 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Actor.uexp with 22391 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset, 735 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset with 833 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp with 850 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset, 733 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset with 830 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp with 849 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset, 747 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset with 851 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp with 856 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset, 888 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset with 984 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp, 621 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp with 715 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset, 733 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset with 830 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp, 570 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp with 665 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset, 741 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset with 842 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp with 853 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset, 735 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset with 833 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp with 850 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset, 733 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset with 830 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp with 849 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset, 735 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset with 833 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp with 850 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset, 735 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset with 833 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp with 850 bytes
+Read ../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset, 723 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset with 808 bytes
+Read ../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp with 837 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset, 737 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset with 836 bytes
+Read ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp with 851 bytes
+Read ../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset, 731 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset with 820 bytes
+Read ../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp, 754 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp with 841 bytes
+Read ../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset, 821 bytes
+Returning unsolicited file ../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset with 909 bytes
+Read ../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp, 512 bytes
+Returning unsolicited file ../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp with 598 bytes
+Read ../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset, 884 bytes
+Returning unsolicited file ../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset with 974 bytes
+Read ../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp, 529 bytes
+Returning unsolicited file ../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp with 617 bytes
+Read ../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset, 1613 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset with 1696 bytes
+Read ../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp, 137316 bytes
+Returning unsolicited file ../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp with 137397 bytes
+Read ../../../Engine/Content/EditorResources/S_Trigger.uasset, 817 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Trigger.uasset with 894 bytes
+Read ../../../Engine/Content/EditorResources/S_Trigger.uexp, 22419 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Trigger.uexp with 22494 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset, 955 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset with 1054 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp, 905 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp with 1002 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset, 822 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset with 920 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp, 131397 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp with 131493 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset, 1047 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset with 1148 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp, 16744 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp with 16843 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset, 728 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset with 821 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp, 1122 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp with 1213 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset, 1043 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset with 1142 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp, 131432 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp with 131529 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset, 728 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset with 821 bytes
+Read ../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp, 1706 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp with 1797 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset, 731 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset with 820 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp, 1118 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp with 1205 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset, 767 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset with 857 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp, 1144 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp with 1232 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset, 844 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset with 935 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp, 5927 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp with 6016 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset, 946 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset with 1034 bytes
+Read ../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp, 358 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp with 444 bytes
+Read ../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset, 727 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset with 817 bytes
+Read ../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp, 3310 bytes
+Returning unsolicited file ../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp with 3398 bytes
+Read ../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset, 713 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset with 818 bytes
+Read ../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp, 3209 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp with 3312 bytes
+Read ../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset, 705 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset with 806 bytes
+Read ../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp, 5917 bytes
+Returning unsolicited file ../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp with 6016 bytes
+Read ../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset, 926 bytes
+Returning unsolicited file ../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset with 1011 bytes
+Read ../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp, 160354 bytes
+Returning unsolicited file ../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp with 160437 bytes
+Read ../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset, 930 bytes
+Returning unsolicited file ../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset with 1017 bytes
+Read ../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp, 160354 bytes
+Returning unsolicited file ../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp with 160439 bytes
+Read ../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset, 928 bytes
+Returning unsolicited file ../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset with 1014 bytes
+Read ../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp, 160354 bytes
+Returning unsolicited file ../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp with 160438 bytes
+Read ../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset, 955 bytes
+Returning unsolicited file ../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset with 1057 bytes
+Read ../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp, 6754 bytes
+Returning unsolicited file ../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp with 6854 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset, 730 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset with 839 bytes
+Read ../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp, 5982 bytes
+Returning unsolicited file ../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp with 6089 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset, 880 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset with 991 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp, 22517 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp with 22626 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset, 705 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset with 806 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp, 362 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp with 461 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset, 846 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset with 953 bytes
+Read ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp, 405 bytes
+Returning unsolicited file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp with 510 bytes
+Read ../../../Engine/Content/EditorResources/S_Solver.uasset, 815 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Solver.uasset with 891 bytes
+Read ../../../Engine/Content/EditorResources/S_Solver.uexp, 22419 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Solver.uexp with 22493 bytes
+Read ../../../Engine/Content/EditorResources/S_Note.uasset, 811 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Note.uasset with 885 bytes
+Read ../../../Engine/Content/EditorResources/S_Note.uexp, 22419 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Note.uexp with 22491 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset, 850 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset with 937 bytes
+Read ../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp, 8283 bytes
+Returning unsolicited file ../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp with 8368 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset, 752 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset with 861 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp, 3336 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp with 3443 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset, 714 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset with 821 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp, 3310 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp with 3415 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset, 711 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset with 813 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp, 3382 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp with 3482 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset, 725 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset with 841 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp, 3346 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp with 3460 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset, 733 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset with 853 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp, 3346 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp with 3464 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset, 721 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset with 835 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp, 3346 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp with 3458 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset, 941 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset with 1059 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp, 6197 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp with 6313 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset, 712 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset with 815 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp, 3346 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp with 3447 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset, 715 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset with 821 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp, 3382 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp with 3486 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset, 711 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset with 815 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp, 3346 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp with 3448 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset, 714 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset with 819 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uexp, 3382 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uexp with 3485 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset, 710 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset with 813 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uexp, 3382 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uexp with 3483 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset, 718 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset with 827 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp, 3382 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp with 3489 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset, 714 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset with 821 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp, 3382 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp with 3487 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset, 718 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset with 827 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp, 3310 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp with 3417 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset, 714 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset with 821 bytes
+Read ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp, 3310 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp with 3415 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset, 728 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset with 843 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp, 6126 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp with 6239 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset, 770 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset with 889 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp, 6080 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp with 6197 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset, 754 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset with 882 bytes
+Read ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp, 6126 bytes
+Returning unsolicited file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp with 6252 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset, 729 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset with 817 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp, 250 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp with 336 bytes
+Read ../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset, 735 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset with 826 bytes
+Read ../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp, 3310 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp with 3399 bytes
+Read ../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset, 944 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset with 1040 bytes
+Read ../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp, 4444 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp with 4538 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset, 844 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset with 924 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp, 22373 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp with 22451 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset, 883 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset with 969 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp, 33554772 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp with 33554856 bytes
+Read ../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset, 735 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset with 824 bytes
+Read ../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp, 262390 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp with 262477 bytes
+Read ../../../Engine/Content/EngineMaterials/MiniFont.uasset, 800 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/MiniFont.uasset with 876 bytes
+Read ../../../Engine/Content/EngineMaterials/MiniFont.uexp, 2372 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/MiniFont.uexp with 2446 bytes
+Read ../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset, 747 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset with 842 bytes
+Read ../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp, 302 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp with 395 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset, 721 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset with 805 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp, 3238 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp with 3320 bytes
+Read ../../../Engine/Content/EngineMaterials/BlueNoise.uasset, 865 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BlueNoise.uasset with 942 bytes
+Read ../../../Engine/Content/EngineMaterials/BlueNoise.uexp, 3670356 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/BlueNoise.uexp with 3670431 bytes
+Read ../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset, 706 bytes
+Returning unsolicited file ../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset with 802 bytes
+Read ../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp, 22241 bytes
+Returning unsolicited file ../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp with 22335 bytes
+Read ../../../Engine/Content/EditorResources/S_Terrain.uasset, 817 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Terrain.uasset with 894 bytes
+Read ../../../Engine/Content/EditorResources/S_Terrain.uexp, 22419 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/S_Terrain.uexp with 22494 bytes
+Read ../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset, 848 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset with 942 bytes
+Read ../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp, 147765 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp with 147857 bytes
+Read ../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset, 866 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset with 969 bytes
+Read ../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp, 1333 bytes
+Returning unsolicited file ../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp with 1434 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset, 1735 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset with 1828 bytes
+Read ../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp, 62233 bytes
+Returning unsolicited file ../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp with 62324 bytes
+Read ../../../Engine/Config/BaseEditorPerProjectUserSettings.ini, 42263 bytes
+Requesting file from cooker ../../../Engine/Content/EngineSounds/Master.uasset
+Read ../../../Engine/Content/EngineSounds/Master.uasset, 742 bytes
+Read ../../../Engine/Content/EngineSounds/Master.uexp, 128 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Master.uexp with 197 bytes
+Requesting file from cooker ../../../Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset, 1001 bytes
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uexp, 61 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uexp with 152 bytes
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset, 1078 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset with 1173 bytes
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uexp, 86 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uexp with 179 bytes
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset, 662 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset with 756 bytes
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uexp, 16 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uexp with 108 bytes
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset, 1143 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset with 1242 bytes
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uexp, 112 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uexp with 209 bytes
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset, 666 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset with 764 bytes
+Read ../../../Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uexp, 16 bytes
+Returning unsolicited file ../../../Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uexp with 112 bytes
+Requesting file from cooker C:/Users/MrSirene/Documents/Unreal Projects/Cisk/Content/StarterContent/Maps/Minimal_Default.uasset
+Cooked packages 213 Packages Remain 1 Total 214
+
+
+Script Stack (0 frames):
+
+Windows GetLastError: The operation completed successfully. (0)

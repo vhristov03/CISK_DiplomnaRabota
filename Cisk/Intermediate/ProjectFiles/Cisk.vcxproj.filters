@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Cisk.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4C7B5817-22F3-49FD-AD98-0E281F1AA36B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Cisk.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CiskEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8EB32BC8-0B15-43D0-AF0F-8CB39B614C42}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Cisk">
+      <UniqueIdentifier>{085CF465-C84C-4406-8321-9E3E6E2824BD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Cisk\ArmoredCarUnit.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\ArmoredCarUnit.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\BarracksStructure.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\BarracksStructure.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\BaseUnitClass.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\BaseUnitClass.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\BuildersHallStructure.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\BuildersHallStructure.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\BuilderUnit.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\BuilderUnit.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\BunkerStructure.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\BunkerStructure.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Cisk\Cisk.Build.cs">
+      <Filter>Source\Cisk</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Cisk\Cisk.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\Cisk.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\CiskGameModeBase.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\CiskGameModeBase.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\CISKPlayer.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\CISKPlayer.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\FactoryStructure.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\FactoryStructure.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\FortStructure.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\FortStructure.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\GameClass.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\GameClass.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\GameData.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\GameData.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\InfantryUnit.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\InfantryUnit.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\MapStructure.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\MapStructure.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\Tile.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\Tile.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cisk\VehicleFactoryStructure.cpp">
+      <Filter>Source\Cisk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cisk\VehicleFactoryStructure.h">
+      <Filter>Source\Cisk</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

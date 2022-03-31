@@ -1,0 +1,11 @@
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4\Development\Cisk\Definitions.Cisk.h
+C:\MyShit\UnrealEngine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\MyShit\UnrealEngine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Source\Cisk/FactoryStructure.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Source\Cisk\MapStructure.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Source\Cisk\CISKPlayer.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4\Inc\Cisk\CISKPlayer.generated.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Source\Cisk\Tile.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4\Inc\Cisk\Tile.generated.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4\Inc\Cisk\MapStructure.generated.h
+C:\Users\MrSirene\Documents\Unreal Projects\Cisk\Intermediate\Build\Win64\UE4\Inc\Cisk\FactoryStructure.generated.h
